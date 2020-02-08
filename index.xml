@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Xinshi Chen - Georgia Tech - Homepage </title>
+		<link>https://xinshi-chen.github.io/</link>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<author>Xinshi Chen</author>
+		<rights>Copyright (c) 1</rights>
+		<updated>0001-01-01 00:00:00 &#43;0000 UTC</updated>
+		
+		<item>
+			<title></title>
+			<link>https://xinshi-chen.github.io/page1/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+			<author>Xinshi Chen</author>
+			<guid>https://xinshi-chen.github.io/page1/</guid>
+			<description>
+
+&lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Xinshi Chen (陈心诗)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img style = &#34;float:left;position: relative;margin-right: 20px; margin-top: 2px&#34; src=&#34;./img/IMG_4099.jpg&#34; width=28%&gt;
+I am currently a Machine Learning Ph.D. student at &lt;a href=&#34;http://ml.gatech.edu/&#34;&gt;Georgia Tech&lt;/a&gt; under the supervision of &lt;a href=&#34;https://www.cc.gatech.edu/~lsong/&#34;&gt;Prof. Le Song&lt;/a&gt;. I received my B.S. and M.Phil in Mathematics at the Chinese University of Hong Kong under the supervision of &lt;a href=&#34;https://www.math.cuhk.edu.hk/~tschung/&#34;&gt;Prof. Eric Chung&lt;/a&gt;.  I have also spent time at Oak Ridge National Laboratory  and Ant Financial as a research intern.&lt;/p&gt;
+
+&lt;p&gt;I am interested in principled machine learning. My current research focuses on data-driven algorithm design and the intersection of probabilistic graphical model and deep learning on structured data. Besides, I am interested in applications in the area of structural and computational biology.
+&amp;nbsp;&lt;/p&gt;
+
+&lt;!-- I received my B.S. and M.Phil in Math at the Chinese University of Hong Kong, with a focus on Numerical PDE under the supervision of [Prof. Eric Chung](https://www.math.cuhk.edu.hk/~tschung/).  --&gt;
+
+&lt;!-- addressing connections among mathematical/physical modeling and deep learning. --&gt;
+
+&lt;p&gt;&lt;strong&gt;Email:&lt;/strong&gt;  xinshi [dot] chen [at] gatech [dot] edu&lt;br /&gt;
+&lt;strong&gt;Address:&lt;/strong&gt; CODA Building, 11th Floor, Machine Learning Center, Georgia Tech&lt;br /&gt;
+&lt;a href=&#34;./CV_xinshi.pdf&#34;&gt;My CV&lt;/a&gt;
+&lt;br /&gt;
+&lt;!-- *B.Sc. in Mathematics*
+&lt;span style=&#34;float:right;&#34;&gt;&lt;em&gt;September 2011 - July 2015&lt;/em&gt;&lt;/span&gt;&lt;br /&gt;
+- The Chinese University of Hong Kong
+- Exchange in math department at &lt;em&gt;ETH Zurich, Switzerland&lt;/em&gt; &lt;span style=&#34;float:right;&#34;&gt;&lt;em&gt;January 2014 - June 2014&lt;/em&gt;&lt;/span&gt;&lt;br /&gt; --&gt;&lt;/p&gt;
+
+&lt;!-- 
+&lt;p style=&#34;text-align:left;&#34;&gt;
+Ph.D. in Machine Learning
+&lt;span style=&#34;float:right;&#34;&gt;&lt;em&gt;September 2017 - present&lt;/em&gt;&lt;/span&gt;&lt;br /&gt;
+&amp;bull; &lt;em&gt;Georgia Institute of Technology&lt;/em&gt;&lt;br /&gt;
+&amp;bull; Advisor: Prof. Le Song
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align:left;&#34;&gt;
+M.Phil.(Master of Philosophy) in Mathematics
+&lt;span style=&#34;float:right;&#34;&gt;&lt;em&gt;September 2015 - July 2017&lt;/em&gt;&lt;/span&gt;&lt;br /&gt;
+&amp;bull; &lt;em&gt;The Chinese University of Hong Kong&lt;/em&gt;&lt;br /&gt;
+&amp;bull; Advisor: Prof. Eric Chung&lt;br /&gt;
+&amp;bull; Thesis: Parametric Finite Element Method for Shape Optimization[&lt;a href=&#34;https://arxiv.org/pdf/1902.00619.pdf&#34;&gt;PDF&lt;/a&gt;]
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align:left;&#34;&gt;
+B.Sc. in Mathematics
+&lt;span style=&#34;float:right;&#34;&gt;&lt;em&gt;September 2011 - July 2015&lt;/em&gt;&lt;/span&gt;&lt;br /&gt;
+&amp;bull; &lt;em&gt;The Chinese University of Hong Kong&lt;/em&gt;&lt;br /&gt;
+&amp;bull; Exchange in math department at &lt;em&gt;ETH Zurich, Switzerland&lt;/em&gt; &lt;span style=&#34;float:right;&#34;&gt;&lt;em&gt;January 2014 - June 2014&lt;/em&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;/p&gt; --&gt;
+
+&lt;h2 id=&#34;publication&#34;&gt;Publication&lt;/h2&gt;
+
+&lt;h3 id=&#34;conference-journal&#34;&gt;Conference &amp;amp; Journal&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/rna.png&#34; style = &#34;float:right;position: relative; width: 180px; margin-right: 0px;&#34;&gt;
+&lt;strong&gt;RNA Secondary Structure Prediction By Learning Unrolled Algorithms&lt;/strong&gt;&lt;br /&gt;
+&lt;u&gt;Xinshi Chen&lt;/u&gt;*, Yu Li*, Ramzan Umarov, Xin Gao, Le Song&lt;br /&gt;
+&lt;em&gt;International Conference on Learning Representations&lt;/em&gt; (&lt;strong&gt;ICLR&lt;/strong&gt;) 2020, &lt;span style=&#34;color:blue&#34;&gt;&lt;strong&gt;Oral&lt;/strong&gt;&lt;/span&gt;.&lt;br /&gt;
+&lt;a href=&#34;https://openreview.net/pdf?id=S1eALyrYDH&#34;&gt;paper&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/glad.jpeg&#34; style = &#34;float:right;position: relative; width: 180px; height: 90px; margin-left: 0px; margin-top: 0px&#34;&gt;
+&lt;strong&gt;GLAD: Learning Sparse Graph Recovery&lt;/strong&gt;&lt;br /&gt;
+Harsh Shrivastava, &lt;u&gt;Xinshi Chen&lt;/u&gt;, Binghong Chen, Guanghui Lan, Srinivas Aluru, Han Liu, Le Song&lt;br /&gt;
+&lt;em&gt;International Conference on Learning Representations&lt;/em&gt; (&lt;strong&gt;ICLR&lt;/strong&gt;) 2020&lt;br /&gt;
+&lt;a href=&#34;https://openreview.net/pdf?id=BkxpMTEtPB&#34;&gt;paper&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/factor-graph.jpg&#34; style = &#34;float:right;position: relative; width: 180px; margin-right: 0px;margin-top: 0px&#34;&gt;
+&lt;strong&gt;Efficient Probabilistic Logic Reasoning with Graph Neural Networks&lt;/strong&gt;&lt;br /&gt;
+Yuyu Zhang, &lt;u&gt;Xinshi Chen&lt;/u&gt;, Yuan Yang, Arun Ramamurthy, Bo Li, Yuan Qi, Le Song&lt;br /&gt;
+&lt;em&gt;International Conference on Learning Representations&lt;/em&gt; (&lt;strong&gt;ICLR&lt;/strong&gt;) 2020&lt;br /&gt;
+&lt;a href=&#34;https://openreview.net/pdf?id=rJg76kStwH&#34;&gt;paper&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;video style = &#34;float:right;position: relative; width: 180px; margin-right: 0px;&#34; autoplay loop&gt;
+  &lt;source src=&#34;./video/mpf2.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;strong&gt;Particle Flow Bayes&amp;rsquo; Rule&lt;/strong&gt;&lt;br /&gt;
+&lt;u&gt;Xinshi Chen&lt;/u&gt;*, Hanjun Dai*, Le Song&lt;br /&gt;
+&lt;em&gt;International Conference on Machine Learning&lt;/em&gt; (&lt;strong&gt;ICML&lt;/strong&gt;) 2019&lt;br /&gt;
+&lt;a href=&#34;http://proceedings.mlr.press/v97/chen19c/chen19c.pdf&#34;&gt;paper&lt;/a&gt; | &lt;a href=&#34;https://github.com/xinshi-chen/ParticleFlowBayesRule&#34;&gt;github&lt;/a&gt; | &lt;a href=&#34;https://icerm.brown.edu/video_archive/?play=1819&#34;&gt;talk&lt;/a&gt; | &lt;a href=&#34;./papers/slides/icml2019_pfbr.pdf&#34;&gt;slides&lt;/a&gt; | &lt;a href=&#34;./papers/posters/icml2019_pfbr.pdf&#34;&gt;poster&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/rl_recommend.jpg&#34; style = &#34;float:right;position: relative; width: 180px; margin-right: 0px;&#34;&gt;
+&lt;strong&gt;Generative Adversarial User Model for Reinforcement Learning Based Recommendation System&lt;/strong&gt;&lt;br /&gt;
+&lt;u&gt;Xinshi Chen&lt;/u&gt;, Shuang Li, Hui Li, Shaohua Jiang, Yuan Qi, Le Song&lt;br /&gt;
+&lt;em&gt;International Conference on Machine Learning&lt;/em&gt; (&lt;strong&gt;ICML&lt;/strong&gt;) 2019&lt;br /&gt;
+&lt;a href=&#34;http://proceedings.mlr.press/v97/chen19f/chen19f.pdf&#34;&gt;paper&lt;/a&gt; | &lt;a href=&#34;https://github.com/xinshi-chen/GenerativeAdversarialUserModel&#34;&gt;github&lt;/a&gt; | &lt;a href=&#34;https://slideslive.com/38916813/time-series&#34;&gt;talk&lt;/a&gt; | &lt;a href=&#34;./papers/slides/icml2019_user_model.pdf&#34;&gt;slides&lt;/a&gt; | &lt;a href=&#34;./papers/posters/icml2019_user_model.pdf&#34;&gt;poster&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/golgi.png&#34; style = &#34;float:right;position: relative; width: 180px; margin-right: 0px; margin-bottom: 20px&#34;&gt;
+&lt;strong&gt;A distinct class of vesicles derived from the trans-Golgi mediates secretion of xylogalacturonan in the root border cell&lt;/strong&gt;&lt;br /&gt;
+Pengfei Wang, &lt;u&gt;Xinshi Chen&lt;/u&gt;, Cameron Goldbeck, Eric Chung, Byung-Ho Kang&lt;br /&gt;
+&lt;em&gt;The Plant Journal&lt;/em&gt; 2017&lt;br /&gt;
+&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/epdf/10.1111/tpj.13704&#34;&gt;paper&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;workshop-preprint&#34;&gt;Workshop &amp;amp; Preprint&lt;/h3&gt;
+
+&lt;!-- &lt;img src=&#34;./img/control.png&#34; style = &#34;float:left;position: relative; width: 200px; margin-right: 30px;&#34;&gt; --&gt;
+
+&lt;p&gt;&lt;strong&gt;Review: Ordinary Differential Equations For Deep Learning&lt;/strong&gt;&lt;br /&gt;
+Xinshi Chen&lt;br /&gt;
+&lt;em&gt;Continually updating&lt;/em&gt; [&lt;a href=&#34;https://arxiv.org/pdf/1911.00502.pdf&#34;&gt;arxiv&lt;/a&gt;]&lt;/p&gt;
+
+&lt;!-- &lt;img src=&#34;./img/factor-graph.jpg&#34; style = &#34;float:left;position: relative; width: 200px; margin-right: 30px;margin-top: 10px&#34;&gt; --&gt;
+
+&lt;p&gt;&lt;strong&gt;Can Graph Neural Networks Help Logic Reasoning?&lt;/strong&gt;&lt;br /&gt;
+Yuyu Zhang*, &lt;u&gt;Xinshi Chen&lt;/u&gt;*, Yuan Yang*, Arun Ramamurthy, Bo Li, Yuan Qi, Le Song&lt;br /&gt;
+&lt;em&gt;NIPS 2019 Workshop in KR2ML&lt;/em&gt; [&lt;a href=&#34;https://arxiv.org/pdf/1906.02111.pdf&#34;&gt;arxiv&lt;/a&gt;]&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/thesis.jpg&#34; style = &#34;float:right;position: relative; width: 150px; margin-bottom: 30px; margin-right: 0px;&#34;&gt;
+&lt;strong&gt;Parametric Finite Element Method for Shape Optimization applied to Golgi Stack&lt;/strong&gt;&lt;br /&gt;
+CUHK Theses &amp;amp; Dissertations Collection 2017 [&lt;a href=&#34;https://arxiv.org/pdf/1902.00619.pdf&#34;&gt;arxiv&lt;/a&gt;]&lt;br /&gt;
+Committee: Prof. &lt;a href=&#34;https://www.math.cuhk.edu.hk/~rchan/&#34;&gt;Raymond Honfu Chan&lt;/a&gt;, Prof. &lt;a href=&#34;https://www.math.cuhk.edu.hk/~lmlui/&#34;&gt;Ronald Lok Ming Lui&lt;/a&gt;, Prof. &lt;a href=&#34;https://www.math.cuhk.edu.hk/~tschung/&#34;&gt;Eric Chung&lt;/a&gt;&lt;br /&gt;
+&amp;nbsp;&lt;/p&gt;
+
+&lt;h2 id=&#34;recent-activities&#34;&gt;Recent Activities&lt;/h2&gt;
+
+&lt;div style=&#34;height:317px;overflow-y:auto&#34;&gt;
+&lt;!-- **June 2019** --- in &lt;u&gt;*ICML 2019*&lt;/u&gt;, I presented our works &#39;&#39;Particle Flow Bayes&#39; Rule&#39;&#39; [[video](https://slideslive.com/38917749/approximate-inference)] and &#39;&#39;Generative Adversarial User Model for Reinforcement Learning Based Recommendation System&#39;&#39; [[video](https://slideslive.com/38916813/time-series)].&lt;br /&gt;
+**May 2019** --- I passed the ML &lt;u&gt;*PhD qualifying exam*&lt;/u&gt; at GaTech! (Submitted review on the topic: [Ordinary Differential Equations For Deep Learning](https://arxiv.org/pdf/1911.00502.pdf), and the [slides](/papers/slides/qual_oral.pptx) for oral exam.)&lt;br /&gt;
+**March 2019** --- in the &lt;u&gt;*HotCSE seminar*&lt;/u&gt; at GaTech, I presented our work &#39;&#39;Meta Particle Flow for Sequential Bayesian Inference&#39;&#39; [[introduction](http://www.hotcse.gatech.edu/2019/Xinshi-Chen/index.html)].&lt;br /&gt;
+**Jan. 2019** --- in the &lt;u&gt;*Scientific Machine Learning Workshop*&lt;/u&gt; at ICERM, I presented a poster for our work &#39;&#39;Particle Flow Bayes&#39; Rule&#39;&#39;.&lt;br /&gt;
+**Nov. 2018** --- in the &lt;u&gt;*GT MAP Seminar*&lt;/u&gt; at GaTech, I presented &#39;&#39;Sequential Monte Carlo Problem With Mass Transportation&#39;&#39;, which is the preliminary version for our paper &#39;&#39;Particle Flow Bayes&#39; Rule&#39;&#39;.&lt;br /&gt;
+**July 2018** --- in the &lt;u&gt;*Workshop on Differential Equations on Networks and Related Problems*&lt;/u&gt; at Zhejiang University, I presented our work &#39;&#39;A no-regret user model&#39;&#39;, which is the preliminary version of our paper &#39;&#39;Generative Adversarial User Model for Reinforcement Learning Based Recommendation System&#39;&#39;.&lt;br /&gt;
+**March 2017** --- in the &lt;u&gt;*2017 Imaging Science Camp*&lt;/u&gt; at USUTech, I presented a part of my thesis &#39;&#39;Parametric FEM for shape optimization applied to Golgi stacks&#39;&#39;.&lt;br /&gt;
+**Dec 2016** --- in the &lt;u&gt;*Ceremony of Paul Erdös Award*&lt;/u&gt; (from World Federation of National Mathematics
+Competitions) presented to Prof. Kar-Ping Shum [[media](https://www.cpr.cuhk.edu.hk/en/press_detail.php?id=2465)], I was fortunate to serve as the MC!&lt;br /&gt;
+**Nov 2016** --- in the &lt;u&gt;*3rd AoE Symposium on Organelle Biogenesis and Function*&lt;/u&gt;, I presented our work &#39;&#39;A Mathematical Simulation To The Shape Evolution Of Med-/Trans- Golgi Cisternae&#39;&#39;, a part of our later published paper. --&gt;
+&lt;strong&gt;June 2019&lt;/strong&gt; &amp;mdash; in &lt;u&gt;&lt;em&gt;ICML 2019&lt;/em&gt;&lt;/u&gt;, I presented our works &amp;ldquo;Particle Flow Bayes&amp;rsquo; Rule&amp;rdquo; [&lt;a href=&#34;https://slideslive.com/38917749/approximate-inference&#34;&gt;video&lt;/a&gt;] and &amp;ldquo;Generative Adversarial User Model for Reinforcement Learning Based Recommendation System&amp;rdquo; [&lt;a href=&#34;https://slideslive.com/38916813/time-series&#34;&gt;video&lt;/a&gt;].&lt;br /&gt;
+&lt;strong&gt;May 2019&lt;/strong&gt; &amp;mdash; I passed the ML &lt;u&gt;&lt;em&gt;PhD qualifying exam&lt;/em&gt;&lt;/u&gt; at GaTech! (Submitted review on the topic: &lt;a href=&#34;https://arxiv.org/pdf/1911.00502.pdf&#34;&gt;Ordinary Differential Equations For Deep Learning&lt;/a&gt;, and the &lt;a href=&#34;./papers/slides/qual_oral.pptx&#34;&gt;slides&lt;/a&gt; for oral exam.)&lt;br /&gt;
+&lt;strong&gt;March 2019&lt;/strong&gt; &amp;mdash; in the &lt;u&gt;&lt;em&gt;HotCSE seminar&lt;/em&gt;&lt;/u&gt; at GaTech, I presented our work &amp;ldquo;Meta Particle Flow for Sequential Bayesian Inference&amp;rdquo; [&lt;a href=&#34;http://www.hotcse.gatech.edu/2019/Xinshi-Chen/index.html&#34;&gt;introduction&lt;/a&gt;].&lt;br /&gt;
+&lt;strong&gt;Jan. 2019&lt;/strong&gt; &amp;mdash; in the &lt;u&gt;&lt;em&gt;Scientific Machine Learning Workshop&lt;/em&gt;&lt;/u&gt; at ICERM, I presented a poster for our work &amp;ldquo;Particle Flow Bayes&amp;rsquo; Rule&amp;rdquo;.&lt;br /&gt;
+&lt;strong&gt;Nov. 2018&lt;/strong&gt; &amp;mdash; in the &lt;u&gt;&lt;em&gt;GT MAP Seminar&lt;/em&gt;&lt;/u&gt; at GaTech, I presented &amp;ldquo;Sequential Monte Carlo Problem With Mass Transportation&amp;rdquo;, which is the preliminary version for our paper &amp;ldquo;Particle Flow Bayes&amp;rsquo; Rule&amp;rdquo;.&lt;br /&gt;
+&lt;strong&gt;July 2018&lt;/strong&gt; &amp;mdash; in the &lt;u&gt;&lt;em&gt;Workshop on Differential Equations on Networks and Related Problems&lt;/em&gt;&lt;/u&gt; at Zhejiang University, I presented our work &amp;ldquo;A no-regret user model&amp;rdquo;, which is the preliminary version of our paper &amp;ldquo;Generative Adversarial User Model for Reinforcement Learning Based Recommendation System&amp;rdquo;.&lt;br /&gt;
+&lt;strong&gt;March 2017&lt;/strong&gt; &amp;mdash; in the &lt;u&gt;&lt;em&gt;2017 Imaging Science Camp&lt;/em&gt;&lt;/u&gt; at USUTech, I presented a part of my thesis &amp;ldquo;Parametric FEM for shape optimization applied to Golgi stacks&amp;rdquo;.&lt;br /&gt;
+&lt;strong&gt;Dec 2016&lt;/strong&gt; &amp;mdash; in the &lt;u&gt;&lt;em&gt;Ceremony of Paul Erdös Award&lt;/em&gt;&lt;/u&gt; (from World Federation of National Mathematics
+Competitions) presented to Prof. Kar-Ping Shum [&lt;a href=&#34;https://www.cpr.cuhk.edu.hk/en/press_detail.php?id=2465&#34;&gt;media&lt;/a&gt;], I was fortunate to serve as the MC!&lt;br /&gt;
+&lt;strong&gt;Nov 2016&lt;/strong&gt; &amp;mdash; in the &lt;u&gt;&lt;em&gt;3rd AoE Symposium on Organelle Biogenesis and Function&lt;/em&gt;&lt;/u&gt;, I presented our work &amp;ldquo;A Mathematical Simulation To The Shape Evolution Of Med-/Trans- Golgi Cisternae&amp;rdquo;, a part of our later published paper.
+&lt;/div&gt;
+
+&lt;h2 id=&#34;biography&#34;&gt;Biography&lt;/h2&gt;
+
+&lt;p style=&#34;text-align:left;&#34;&gt;
+&lt;em&gt;M.Phil. (Master of Philosophy) in Mathematics&lt;/em&gt;
+&lt;span style=&#34;float:right;&#34;&gt;&lt;em&gt;September 2015 - July 2017&lt;/em&gt;&lt;/span&gt;&lt;br /&gt;
+&amp;bull; The Chinese University of Hong Kong (Advisor: &lt;a href=&#34;https://arxiv.org/pdf/1902.00619.pdf&#34;&gt;Prof. Eric Chung&lt;/a&gt;)&lt;br /&gt;
+&amp;bull; Thesis: Parametric Finite Element Method for Shape Optimization [&lt;a href=&#34;https://arxiv.org/pdf/1902.00619.pdf&#34;&gt;PDF&lt;/a&gt;]&lt;br /&gt;
+&lt;/p&gt;
+&lt;!-- *M.Phil. (Master of Philosophy) in Mathematics*
+&lt;span style=&#34;float:right;&#34;&gt;&lt;em&gt;September 2015 - July 2017&lt;/em&gt;&lt;/span&gt;
+- The Chinese University of Hong Kong
+- Advisor: Prof. Eric Chung
+- Thesis: Parametric Finite Element Method for Shape Optimization [&lt;a href=&#34;https://arxiv.org/pdf/1902.00619.pdf&#34;&gt;PDF&lt;/a&gt;]
+&lt;/p&gt; --&gt;
+
+&lt;p style=&#34;text-align:left;&#34;&gt;
+&lt;em&gt;B.Sc. in Mathematics&lt;/em&gt;
+&lt;span style=&#34;float:right;&#34;&gt;&lt;em&gt;September 2011 - July 2015&lt;/em&gt;&lt;/span&gt;&lt;br /&gt;
+&amp;bull; The Chinese University of Hong Kong&lt;br /&gt;
+&amp;bull; Exchange in math department at &lt;em&gt;ETH Zurich, Switzerland&lt;/em&gt; &lt;span style=&#34;float:right;&#34;&gt;&lt;em&gt;January 2014 - June 2014&lt;/em&gt;&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;experience&#34;&gt;Experience&lt;/h2&gt;
+
+&lt;p style=&#34;text-align:left;&#34;&gt;
+&lt;em&gt;Research Assistant or Teaching Assistant&lt;/em&gt;
+&lt;span style=&#34;float:right;&#34;&gt;&lt;em&gt;September 2017 - present&lt;/em&gt;&lt;/span&gt;&lt;br /&gt;
+&amp;bull; Teach in School of Mathematics, Georgia Institute of Technology.&lt;br /&gt;
+&amp;bull; Work in Machine Learning Group, supervised by Prof. Le Song.
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align:left;&#34;&gt;
+&lt;em&gt;Research Intern&lt;/em&gt;
+&lt;span style=&#34;float:right;&#34;&gt;&lt;em&gt;June 2018 - August 2018&lt;/em&gt;&lt;/span&gt;&lt;br /&gt;
+&amp;bull; AI department, Ant Financial (affiliate company of Alibaba), Hangzhou, China
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align:left;&#34;&gt;
+&lt;em&gt;Teaching Assistant&lt;/em&gt;
+&lt;span style=&#34;float:right;&#34;&gt;&lt;em&gt;August 2015 - June 2017&lt;/em&gt;&lt;/span&gt;&lt;br /&gt;
+&amp;bull; Department of Mathematics, The Chinese University of Hong Kong
+&lt;/p&gt;
+
+&lt;p style=&#34;text-align:left;&#34;&gt;
+&lt;em&gt;REU Research Intern&lt;/em&gt;
+&lt;span style=&#34;float:right;&#34;&gt;&lt;em&gt;June 2014 - August 2014&lt;/em&gt;&lt;/span&gt;&lt;br /&gt;
+&amp;bull; Oak Ridge National Laboratory, United States&lt;br /&gt;
+&amp;bull; Mentor: Dr. Joshua Fu, Dr. John Drake and Dr. Kwai Wong&lt;br /&gt;
+&amp;bull; Solve diffusion-convection equation based on finite element method.&lt;br /&gt;
+&amp;bull; Title: Modeling Chemical Transport with Galerkin Methods[&lt;a href=&#34;https://www.jics.utk.edu/csure-reu/csure14/projects&#34;&gt;Project link&lt;/a&gt;]
+&lt;/p&gt;
+
+&lt;h2 id=&#34;academic-service&#34;&gt;Academic Service&lt;/h2&gt;
+
+&lt;p&gt;&amp;bull; Program Committee / Reviewer: AAAI 2020, ICLR 2020, AISTAT 2020&lt;/p&gt;
+
+&lt;h2 id=&#34;teaching&#34;&gt;Teaching&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;School of Mathematics, GaTech&lt;/em&gt;&lt;br /&gt;
+&amp;bull; MATH2551 Multivariable Calculus, (Recitation Teaching), Spring 2018 &amp;amp; Fall 2017&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Department of Mathematics, CUHK&lt;/em&gt;&lt;br /&gt;
+&amp;bull; MATH3240 Numerical Methods for Differential Equations, (Tutorial), Spring 2016&lt;br /&gt;
+&amp;bull; MATH3230 Numerical Analysis, (Tutorial), Fall 2016 &amp;amp; Fall 2015&lt;br /&gt;
+&amp;bull; MATH2010 Advanced Calculus I, (Tutorial), Spring 2016&lt;br /&gt;
+&amp;bull; MATH1510 Calculus for Engineers, (Tutorial), Fall 2015&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Enrichment Programme for Young Mathematics Talents, Hong Kong&lt;/em&gt;&lt;br /&gt;
+&amp;bull; SAYT1054 Mathematical Analysis, (Discussion Group), Fall 2013&lt;/p&gt;
+
+&lt;h2 id=&#34;award&#34;&gt;Award&lt;/h2&gt;
+
+&lt;p&gt;&amp;bull; ICML Travel Award, 2019&lt;br /&gt;
+&amp;bull; Postgraduate Studentship, CUHK, 2015-2017&lt;br /&gt;
+&amp;bull; Best oral presentation in 3rd AoE(Area of Excellence) Symposium, 2016&lt;br /&gt;
+&amp;bull; Professor Charles K. Kao Research Scholarship, 2013-14&lt;br /&gt;
+&amp;bull; College Head&amp;rsquo;s list - for outstanding academic performance, 2013-14&lt;br /&gt;
+&amp;bull; Undergraduate Exchange Scholarship, 2013&lt;/p&gt;
+
+&lt;h2 id=&#34;extra-curriculum&#34;&gt;Extra-Curriculum&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Volunteer Experience&lt;/em&gt;&lt;br /&gt;
+&amp;bull; Bronze Award for Volunteer Service (Individual), 2012, &lt;em&gt;issued by HK Social Welfare Department&lt;/em&gt;&lt;br /&gt;
+&amp;bull; Gold Award for Volunteer Service (Group), 2012, &lt;em&gt;issued by HK Social Welfare Department&lt;/em&gt;&lt;br /&gt;
+&amp;bull; Overall Best Mainland Service Project 2011-12, &lt;em&gt;Caring Heart Community Service Project Scheme&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Certificates&lt;/em&gt;&lt;br /&gt;
+&amp;bull;  Completion of the Mental Health First Aid Course, &lt;em&gt;certified by MHFA International&lt;/em&gt;&lt;br /&gt;
+&amp;bull;  Advanced Open Water Diver, &lt;em&gt;certified by PADI&lt;/em&gt;&lt;/p&gt;
+</description>
+		</item>
+		
+	</channel>
+</rss>
