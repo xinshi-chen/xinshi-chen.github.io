@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Xinshi Chen - Georgia Tech - Homepage </title>
-		<link>https://xinshi-chen.github.io/</link>
+		<link>/</link>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<author>Xinshi Chen</author>
@@ -11,81 +11,49 @@
 		
 		<item>
 			<title></title>
-			<link>https://xinshi-chen.github.io/page1/</link>
+			<link>/page1/</link>
 			<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 			<author>Xinshi Chen</author>
-			<guid>https://xinshi-chen.github.io/page1/</guid>
+			<guid>/page1/</guid>
 			<description>
 
 &lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;Xinshi Chen (陈心诗)&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img style = &#34;float:left;position: relative;margin-right: 20px; margin-top: 2px&#34; src=&#34;./img/IMG_4099.jpg&#34; width=28%&gt;
+&lt;p&gt;&lt;img style = &#34;float:left;position: relative;margin-right: 20px; margin-top: 0px&#34; src=&#34;./img/library.jpg&#34; width=22%&gt;
 I am currently a Machine Learning Ph.D. student at &lt;a href=&#34;http://ml.gatech.edu/&#34;&gt;Georgia Tech&lt;/a&gt; under the supervision of &lt;a href=&#34;https://www.cc.gatech.edu/~lsong/&#34;&gt;Prof. Le Song&lt;/a&gt;. I received my B.S. and M.Phil in Mathematics at the Chinese University of Hong Kong under the supervision of &lt;a href=&#34;https://www.math.cuhk.edu.hk/~tschung/&#34;&gt;Prof. Eric Chung&lt;/a&gt;.  I have also spent time at Oak Ridge National Laboratory  and Ant Financial as a research intern.&lt;/p&gt;
 
 &lt;p&gt;I am interested in principled machine learning. My current research focuses on data-driven algorithm design and the intersection of probabilistic graphical model and deep learning on structured data. Besides, I am interested in applications in the area of structural and computational biology.
 &amp;nbsp;&lt;/p&gt;
 
-&lt;!-- I received my B.S. and M.Phil in Math at the Chinese University of Hong Kong, with a focus on Numerical PDE under the supervision of [Prof. Eric Chung](https://www.math.cuhk.edu.hk/~tschung/).  --&gt;
-
-&lt;!-- addressing connections among mathematical/physical modeling and deep learning. --&gt;
-
 &lt;p&gt;&lt;strong&gt;Email:&lt;/strong&gt;  xinshi [dot] chen [at] gatech [dot] edu&lt;br /&gt;
 &lt;strong&gt;Address:&lt;/strong&gt; CODA Building, 11th Floor, Machine Learning Center, Georgia Tech&lt;br /&gt;
-&lt;a href=&#34;./CV_xinshi.pdf&#34;&gt;My CV&lt;/a&gt;
-&lt;br /&gt;
-&lt;!-- *B.Sc. in Mathematics*
-&lt;span style=&#34;float:right;&#34;&gt;&lt;em&gt;September 2011 - July 2015&lt;/em&gt;&lt;/span&gt;&lt;br /&gt;
-- The Chinese University of Hong Kong
-- Exchange in math department at &lt;em&gt;ETH Zurich, Switzerland&lt;/em&gt; &lt;span style=&#34;float:right;&#34;&gt;&lt;em&gt;January 2014 - June 2014&lt;/em&gt;&lt;/span&gt;&lt;br /&gt; --&gt;&lt;/p&gt;
-
-&lt;!-- 
-&lt;p style=&#34;text-align:left;&#34;&gt;
-Ph.D. in Machine Learning
-&lt;span style=&#34;float:right;&#34;&gt;&lt;em&gt;September 2017 - present&lt;/em&gt;&lt;/span&gt;&lt;br /&gt;
-&amp;bull; &lt;em&gt;Georgia Institute of Technology&lt;/em&gt;&lt;br /&gt;
-&amp;bull; Advisor: Prof. Le Song
-&lt;/p&gt;
-
-&lt;p style=&#34;text-align:left;&#34;&gt;
-M.Phil.(Master of Philosophy) in Mathematics
-&lt;span style=&#34;float:right;&#34;&gt;&lt;em&gt;September 2015 - July 2017&lt;/em&gt;&lt;/span&gt;&lt;br /&gt;
-&amp;bull; &lt;em&gt;The Chinese University of Hong Kong&lt;/em&gt;&lt;br /&gt;
-&amp;bull; Advisor: Prof. Eric Chung&lt;br /&gt;
-&amp;bull; Thesis: Parametric Finite Element Method for Shape Optimization[&lt;a href=&#34;https://arxiv.org/pdf/1902.00619.pdf&#34;&gt;PDF&lt;/a&gt;]
-&lt;/p&gt;
-
-&lt;p style=&#34;text-align:left;&#34;&gt;
-B.Sc. in Mathematics
-&lt;span style=&#34;float:right;&#34;&gt;&lt;em&gt;September 2011 - July 2015&lt;/em&gt;&lt;/span&gt;&lt;br /&gt;
-&amp;bull; &lt;em&gt;The Chinese University of Hong Kong&lt;/em&gt;&lt;br /&gt;
-&amp;bull; Exchange in math department at &lt;em&gt;ETH Zurich, Switzerland&lt;/em&gt; &lt;span style=&#34;float:right;&#34;&gt;&lt;em&gt;January 2014 - June 2014&lt;/em&gt;&lt;/span&gt;&lt;br /&gt;
-&lt;/p&gt; --&gt;
+&lt;a href=&#34;./CV_xinshi.pdf&#34;&gt;My CV&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;publication&#34;&gt;Publication&lt;/h2&gt;
 
 &lt;h3 id=&#34;conference-journal&#34;&gt;Conference &amp;amp; Journal&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&#34;./img/rna.png&#34; style = &#34;float:right;position: relative; width: 180px; margin-right: 0px;&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;./img/rna.png&#34; style = &#34;float:left;position: relative; width: 220px; margin-right: 20px;&#34;&gt;
 &lt;strong&gt;RNA Secondary Structure Prediction By Learning Unrolled Algorithms&lt;/strong&gt;&lt;br /&gt;
 &lt;u&gt;Xinshi Chen&lt;/u&gt;*, Yu Li*, Ramzan Umarov, Xin Gao, Le Song&lt;br /&gt;
 &lt;em&gt;International Conference on Learning Representations&lt;/em&gt; (&lt;strong&gt;ICLR&lt;/strong&gt;) 2020, &lt;span style=&#34;color:blue&#34;&gt;&lt;strong&gt;Oral&lt;/strong&gt;&lt;/span&gt;.&lt;br /&gt;
-&lt;a href=&#34;https://openreview.net/pdf?id=S1eALyrYDH&#34;&gt;paper&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://openreview.net/pdf?id=S1eALyrYDH&#34;&gt;paper&lt;/a&gt; | &lt;a href=&#34;https://github.com/ml4bio/e2efold&#34;&gt;github&lt;/a&gt; | &lt;a href=&#34;https://www.cc.gatech.edu/news/633633/machine-learning-tool-may-help-us-better-understand-rna-viruses&#34;&gt;news&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;./img/glad.jpeg&#34; style = &#34;float:right;position: relative; width: 180px; height: 90px; margin-left: 0px; margin-top: 0px&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;./img/glad.jpeg&#34; style = &#34;float:left;position: relative; width: 220px; height: 100px; margin-right: 20px; margin-top: 10px&#34;&gt;
 &lt;strong&gt;GLAD: Learning Sparse Graph Recovery&lt;/strong&gt;&lt;br /&gt;
 Harsh Shrivastava, &lt;u&gt;Xinshi Chen&lt;/u&gt;, Binghong Chen, Guanghui Lan, Srinivas Aluru, Han Liu, Le Song&lt;br /&gt;
 &lt;em&gt;International Conference on Learning Representations&lt;/em&gt; (&lt;strong&gt;ICLR&lt;/strong&gt;) 2020&lt;br /&gt;
-&lt;a href=&#34;https://openreview.net/pdf?id=BkxpMTEtPB&#34;&gt;paper&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://openreview.net/pdf?id=BkxpMTEtPB&#34;&gt;paper&lt;/a&gt; | &lt;a href=&#34;https://github.com/Harshs27/GLAD&#34;&gt;github&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;./img/factor-graph.jpg&#34; style = &#34;float:right;position: relative; width: 180px; margin-right: 0px;margin-top: 0px&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;./img/factor-graph.jpg&#34; style = &#34;float:left;position: relative; width: 220px;height: 100px; margin-right: 20px;margin-top: 0px&#34;&gt;
 &lt;strong&gt;Efficient Probabilistic Logic Reasoning with Graph Neural Networks&lt;/strong&gt;&lt;br /&gt;
 Yuyu Zhang, &lt;u&gt;Xinshi Chen&lt;/u&gt;, Yuan Yang, Arun Ramamurthy, Bo Li, Yuan Qi, Le Song&lt;br /&gt;
 &lt;em&gt;International Conference on Learning Representations&lt;/em&gt; (&lt;strong&gt;ICLR&lt;/strong&gt;) 2020&lt;br /&gt;
-&lt;a href=&#34;https://openreview.net/pdf?id=rJg76kStwH&#34;&gt;paper&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://openreview.net/pdf?id=rJg76kStwH&#34;&gt;paper&lt;/a&gt; | &lt;a href=&#34;https://github.com/expressGNN/ExpressGNN&#34;&gt;github&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;video style = &#34;float:right;position: relative; width: 180px; margin-right: 0px;&#34; autoplay loop&gt;
+&lt;p&gt;&lt;video style = &#34;float:left;position: relative; width: 220px;height: 100px; margin-right: 20px;margin-top: 0px&#34; autoplay loop&gt;
   &lt;source src=&#34;./video/mpf2.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
 &lt;strong&gt;Particle Flow Bayes&amp;rsquo; Rule&lt;/strong&gt;&lt;br /&gt;
@@ -93,17 +61,18 @@ Yuyu Zhang, &lt;u&gt;Xinshi Chen&lt;/u&gt;, Yuan Yang, Arun Ramamurthy, Bo Li, Y
 &lt;em&gt;International Conference on Machine Learning&lt;/em&gt; (&lt;strong&gt;ICML&lt;/strong&gt;) 2019&lt;br /&gt;
 &lt;a href=&#34;http://proceedings.mlr.press/v97/chen19c/chen19c.pdf&#34;&gt;paper&lt;/a&gt; | &lt;a href=&#34;https://github.com/xinshi-chen/ParticleFlowBayesRule&#34;&gt;github&lt;/a&gt; | &lt;a href=&#34;https://icerm.brown.edu/video_archive/?play=1819&#34;&gt;talk&lt;/a&gt; | &lt;a href=&#34;./papers/slides/icml2019_pfbr.pdf&#34;&gt;slides&lt;/a&gt; | &lt;a href=&#34;./papers/posters/icml2019_pfbr.pdf&#34;&gt;poster&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;./img/rl_recommend.jpg&#34; style = &#34;float:right;position: relative; width: 180px; margin-right: 0px;&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;./img/rl_recommend.jpg&#34; style = &#34;float:left;position: relative; width: 200px; margin-right: 30px; margin-left: 10px;&#34;&gt;
 &lt;strong&gt;Generative Adversarial User Model for Reinforcement Learning Based Recommendation System&lt;/strong&gt;&lt;br /&gt;
 &lt;u&gt;Xinshi Chen&lt;/u&gt;, Shuang Li, Hui Li, Shaohua Jiang, Yuan Qi, Le Song&lt;br /&gt;
 &lt;em&gt;International Conference on Machine Learning&lt;/em&gt; (&lt;strong&gt;ICML&lt;/strong&gt;) 2019&lt;br /&gt;
 &lt;a href=&#34;http://proceedings.mlr.press/v97/chen19f/chen19f.pdf&#34;&gt;paper&lt;/a&gt; | &lt;a href=&#34;https://github.com/xinshi-chen/GenerativeAdversarialUserModel&#34;&gt;github&lt;/a&gt; | &lt;a href=&#34;https://slideslive.com/38916813/time-series&#34;&gt;talk&lt;/a&gt; | &lt;a href=&#34;./papers/slides/icml2019_user_model.pdf&#34;&gt;slides&lt;/a&gt; | &lt;a href=&#34;./papers/posters/icml2019_user_model.pdf&#34;&gt;poster&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;./img/golgi.png&#34; style = &#34;float:right;position: relative; width: 180px; margin-right: 0px; margin-bottom: 20px&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;./img/golgi.png&#34; style = &#34;float:left;position: relative; width: 220px; margin-right: 20px; margin-bottom: 0px&#34;&gt;
 &lt;strong&gt;A distinct class of vesicles derived from the trans-Golgi mediates secretion of xylogalacturonan in the root border cell&lt;/strong&gt;&lt;br /&gt;
 Pengfei Wang, &lt;u&gt;Xinshi Chen&lt;/u&gt;, Cameron Goldbeck, Eric Chung, Byung-Ho Kang&lt;br /&gt;
 &lt;em&gt;The Plant Journal&lt;/em&gt; 2017&lt;br /&gt;
-&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/epdf/10.1111/tpj.13704&#34;&gt;paper&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/epdf/10.1111/tpj.13704&#34;&gt;paper&lt;/a&gt;&lt;br /&gt;
+&amp;nbsp;&lt;/p&gt;
 
 &lt;h3 id=&#34;workshop-preprint&#34;&gt;Workshop &amp;amp; Preprint&lt;/h3&gt;
 
@@ -119,8 +88,9 @@ Xinshi Chen&lt;br /&gt;
 Yuyu Zhang*, &lt;u&gt;Xinshi Chen&lt;/u&gt;*, Yuan Yang*, Arun Ramamurthy, Bo Li, Yuan Qi, Le Song&lt;br /&gt;
 &lt;em&gt;NIPS 2019 Workshop in KR2ML&lt;/em&gt; [&lt;a href=&#34;https://arxiv.org/pdf/1906.02111.pdf&#34;&gt;arxiv&lt;/a&gt;]&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;./img/thesis.jpg&#34; style = &#34;float:right;position: relative; width: 150px; margin-bottom: 30px; margin-right: 0px;&#34;&gt;
-&lt;strong&gt;Parametric Finite Element Method for Shape Optimization applied to Golgi Stack&lt;/strong&gt;&lt;br /&gt;
+&lt;!-- &lt;img src=&#34;./img/thesis.jpg&#34; style = &#34;float:right;position: relative; width: 200px; margin-bottom: 30px; margin-right: 0px;&#34;&gt; --&gt;
+
+&lt;p&gt;&lt;strong&gt;Parametric Finite Element Method for Shape Optimization applied to Golgi Stack&lt;/strong&gt;&lt;br /&gt;
 CUHK Theses &amp;amp; Dissertations Collection 2017 [&lt;a href=&#34;https://arxiv.org/pdf/1902.00619.pdf&#34;&gt;arxiv&lt;/a&gt;]&lt;br /&gt;
 Committee: Prof. &lt;a href=&#34;https://www.math.cuhk.edu.hk/~rchan/&#34;&gt;Raymond Honfu Chan&lt;/a&gt;, Prof. &lt;a href=&#34;https://www.math.cuhk.edu.hk/~lmlui/&#34;&gt;Ronald Lok Ming Lui&lt;/a&gt;, Prof. &lt;a href=&#34;https://www.math.cuhk.edu.hk/~tschung/&#34;&gt;Eric Chung&lt;/a&gt;&lt;br /&gt;
 &amp;nbsp;&lt;/p&gt;
@@ -204,7 +174,7 @@ Competitions) presented to Prof. Kar-Ping Shum [&lt;a href=&#34;https://www.cpr.
 
 &lt;h2 id=&#34;academic-service&#34;&gt;Academic Service&lt;/h2&gt;
 
-&lt;p&gt;&amp;bull; Program Committee / Reviewer: AAAI 2020, ICLR 2020, AISTAT 2020&lt;/p&gt;
+&lt;p&gt;&amp;bull; Program Committee / Reviewer: AAAI 2020, ICLR 2020, AISTAT 2020, MSML 2020, NIPS 2020&lt;/p&gt;
 
 &lt;h2 id=&#34;teaching&#34;&gt;Teaching&lt;/h2&gt;
 

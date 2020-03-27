@@ -3,20 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://xinshi-chen.github.io/</loc>
+    <loc>http://xinshi-chen.com/</loc>
   </url>
   
   <url>
-    <loc>https://xinshi-chen.github.io/page1/</loc>
+    <loc>http://xinshi-chen.com/page1/</loc>
   </url>
   
   <url>
-    <loc>https://xinshi-chen.github.io/categories/</loc>
+    <loc>http://xinshi-chen.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://xinshi-chen.github.io/tags/</loc>
+    <loc>http://xinshi-chen.com/tags/</loc>
     <priority>0</priority>
   </url>
   
