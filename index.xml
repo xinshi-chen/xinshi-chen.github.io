@@ -22,7 +22,7 @@
 &lt;p&gt;&lt;strong&gt;Xinshi Chen (陈心诗)&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img style = &#34;float:left;position: relative;margin-right: 20px; margin-top: 0px&#34; src=&#34;./img/library.jpg&#34; width=22%&gt;
-I am currently a Machine Learning Ph.D. student at &lt;a href=&#34;http://ml.gatech.edu/&#34;&gt;Georgia Tech&lt;/a&gt; under the supervision of &lt;a href=&#34;https://www.cc.gatech.edu/~lsong/&#34;&gt;Prof. Le Song&lt;/a&gt;. I received my B.S. and M.Phil in Mathematics at the Chinese University of Hong Kong under the supervision of &lt;a href=&#34;https://www.math.cuhk.edu.hk/~tschung/&#34;&gt;Prof. Eric Chung&lt;/a&gt;.  I have also spent time at Oak Ridge National Laboratory  and Ant Financial as a research intern.&lt;/p&gt;
+I am currently a Machine Learning Ph.D. student at &lt;a href=&#34;http://ml.gatech.edu/&#34;&gt;Georgia Tech&lt;/a&gt;. I received my B.S. and M.Phil in Mathematics at the Chinese University of Hong Kong.  I have also spent time at Oak Ridge National Laboratory and Ant Financial as a research intern. This summer I will work with Facebook as a remote research intern.&lt;/p&gt;
 
 &lt;p&gt;I am interested in principled machine learning. My current research focuses on data-driven algorithm design and the intersection of probabilistic graphical model and deep learning on structured data. Besides, I am interested in applications in the area of structural and computational biology.
 &amp;nbsp;&lt;/p&gt;
@@ -39,19 +39,19 @@ I am currently a Machine Learning Ph.D. student at &lt;a href=&#34;http://ml.gat
 &lt;strong&gt;RNA Secondary Structure Prediction By Learning Unrolled Algorithms&lt;/strong&gt;&lt;br /&gt;
 &lt;u&gt;Xinshi Chen&lt;/u&gt;*, Yu Li*, Ramzan Umarov, Xin Gao, Le Song&lt;br /&gt;
 &lt;em&gt;International Conference on Learning Representations&lt;/em&gt; (&lt;strong&gt;ICLR&lt;/strong&gt;) 2020, &lt;span style=&#34;color:blue&#34;&gt;&lt;strong&gt;Oral&lt;/strong&gt;&lt;/span&gt;.&lt;br /&gt;
-&lt;a href=&#34;https://openreview.net/pdf?id=S1eALyrYDH&#34;&gt;paper&lt;/a&gt; | &lt;a href=&#34;https://github.com/ml4bio/e2efold&#34;&gt;github&lt;/a&gt; | &lt;a href=&#34;https://www.cc.gatech.edu/news/633633/machine-learning-tool-may-help-us-better-understand-rna-viruses&#34;&gt;news&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://openreview.net/pdf?id=S1eALyrYDH&#34;&gt;paper&lt;/a&gt; | &lt;a href=&#34;https://github.com/ml4bio/e2efold&#34;&gt;github&lt;/a&gt; | &lt;a href=&#34;https://iclr.cc/virtual_2020/poster_S1eALyrYDH.html&#34;&gt;talk&lt;/a&gt; | &lt;a href=&#34;./papers/slides/iclr2020-e2efold.pdf&#34;&gt;slides&lt;/a&gt; | &lt;a href=&#34;https://www.cc.gatech.edu/news/633633/machine-learning-tool-may-help-us-better-understand-rna-viruses&#34;&gt;news&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;./img/glad.jpeg&#34; style = &#34;float:left;position: relative; width: 220px; height: 100px; margin-right: 20px; margin-top: 10px&#34;&gt;
 &lt;strong&gt;GLAD: Learning Sparse Graph Recovery&lt;/strong&gt;&lt;br /&gt;
 Harsh Shrivastava, &lt;u&gt;Xinshi Chen&lt;/u&gt;, Binghong Chen, Guanghui Lan, Srinivas Aluru, Han Liu, Le Song&lt;br /&gt;
 &lt;em&gt;International Conference on Learning Representations&lt;/em&gt; (&lt;strong&gt;ICLR&lt;/strong&gt;) 2020&lt;br /&gt;
-&lt;a href=&#34;https://openreview.net/pdf?id=BkxpMTEtPB&#34;&gt;paper&lt;/a&gt; | &lt;a href=&#34;https://github.com/Harshs27/GLAD&#34;&gt;github&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://openreview.net/pdf?id=BkxpMTEtPB&#34;&gt;paper&lt;/a&gt; | &lt;a href=&#34;https://github.com/Harshs27/GLAD&#34;&gt;github&lt;/a&gt; | &lt;a href=&#34;https://iclr.cc/virtual_2020/poster_BkxpMTEtPB.html&#34;&gt;talk&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;./img/factor-graph.jpg&#34; style = &#34;float:left;position: relative; width: 220px;height: 100px; margin-right: 20px;margin-top: 0px&#34;&gt;
 &lt;strong&gt;Efficient Probabilistic Logic Reasoning with Graph Neural Networks&lt;/strong&gt;&lt;br /&gt;
 Yuyu Zhang, &lt;u&gt;Xinshi Chen&lt;/u&gt;, Yuan Yang, Arun Ramamurthy, Bo Li, Yuan Qi, Le Song&lt;br /&gt;
 &lt;em&gt;International Conference on Learning Representations&lt;/em&gt; (&lt;strong&gt;ICLR&lt;/strong&gt;) 2020&lt;br /&gt;
-&lt;a href=&#34;https://openreview.net/pdf?id=rJg76kStwH&#34;&gt;paper&lt;/a&gt; | &lt;a href=&#34;https://github.com/expressGNN/ExpressGNN&#34;&gt;github&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://openreview.net/pdf?id=rJg76kStwH&#34;&gt;paper&lt;/a&gt; | &lt;a href=&#34;https://github.com/expressGNN/ExpressGNN&#34;&gt;github&lt;/a&gt; | &lt;a href=&#34;https://iclr.cc/virtual_2020/poster_rJg76kStwH.html&#34;&gt;talk&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;video style = &#34;float:left;position: relative; width: 220px;height: 100px; margin-right: 20px;margin-top: 0px&#34; autoplay loop&gt;
   &lt;source src=&#34;./video/mpf2.mp4&#34; type=&#34;video/mp4&#34;&gt;
@@ -108,6 +108,7 @@ Committee: Prof. &lt;a href=&#34;https://www.math.cuhk.edu.hk/~rchan/&#34;&gt;Ra
 **Dec 2016** --- in the &lt;u&gt;*Ceremony of Paul Erdös Award*&lt;/u&gt; (from World Federation of National Mathematics
 Competitions) presented to Prof. Kar-Ping Shum [[media](https://www.cpr.cuhk.edu.hk/en/press_detail.php?id=2465)], I was fortunate to serve as the MC!&lt;br /&gt;
 **Nov 2016** --- in the &lt;u&gt;*3rd AoE Symposium on Organelle Biogenesis and Function*&lt;/u&gt;, I presented our work &#39;&#39;A Mathematical Simulation To The Shape Evolution Of Med-/Trans- Golgi Cisternae&#39;&#39;, a part of our later published paper. --&gt;
+&lt;strong&gt;April 2020&lt;/strong&gt; &amp;mdash; in &lt;u&gt;&lt;em&gt;ICLR 2020&lt;/em&gt;&lt;/u&gt;, three papers are presented virtually. Please check the details [here](https://iclr.cc/virtual/papers.html?filter=authors&amp;search=Xinshi+Chen), and stay safe!&lt;br /&gt;
 &lt;strong&gt;June 2019&lt;/strong&gt; &amp;mdash; in &lt;u&gt;&lt;em&gt;ICML 2019&lt;/em&gt;&lt;/u&gt;, I presented our works &amp;ldquo;Particle Flow Bayes&amp;rsquo; Rule&amp;rdquo; [&lt;a href=&#34;https://slideslive.com/38917749/approximate-inference&#34;&gt;video&lt;/a&gt;] and &amp;ldquo;Generative Adversarial User Model for Reinforcement Learning Based Recommendation System&amp;rdquo; [&lt;a href=&#34;https://slideslive.com/38916813/time-series&#34;&gt;video&lt;/a&gt;].&lt;br /&gt;
 &lt;strong&gt;May 2019&lt;/strong&gt; &amp;mdash; I passed the ML &lt;u&gt;&lt;em&gt;PhD qualifying exam&lt;/em&gt;&lt;/u&gt; at GaTech! (Submitted review on the topic: &lt;a href=&#34;https://arxiv.org/pdf/1911.00502.pdf&#34;&gt;Ordinary Differential Equations For Deep Learning&lt;/a&gt;, and the &lt;a href=&#34;./papers/slides/qual_oral.pptx&#34;&gt;slides&lt;/a&gt; for oral exam.)&lt;br /&gt;
 &lt;strong&gt;March 2019&lt;/strong&gt; &amp;mdash; in the &lt;u&gt;&lt;em&gt;HotCSE seminar&lt;/em&gt;&lt;/u&gt; at GaTech, I presented our work &amp;ldquo;Meta Particle Flow for Sequential Bayesian Inference&amp;rdquo; [&lt;a href=&#34;http://www.hotcse.gatech.edu/2019/Xinshi-Chen/index.html&#34;&gt;introduction&lt;/a&gt;].&lt;br /&gt;
@@ -192,7 +193,8 @@ Competitions) presented to Prof. Kar-Ping Shum [&lt;a href=&#34;https://www.cpr.
 
 &lt;h2 id=&#34;award&#34;&gt;Award&lt;/h2&gt;
 
-&lt;p&gt;&amp;bull; ICML Travel Award, 2019&lt;br /&gt;
+&lt;p&gt;&amp;bull; ICLR Travel Award, 2020&lt;br /&gt;
+&amp;bull; ICML Travel Award, 2019&lt;br /&gt;
 &amp;bull; Postgraduate Studentship, CUHK, 2015-2017&lt;br /&gt;
 &amp;bull; Best oral presentation in 3rd AoE(Area of Excellence) Symposium, 2016&lt;br /&gt;
 &amp;bull; Professor Charles K. Kao Research Scholarship, 2013-14&lt;br /&gt;
