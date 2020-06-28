@@ -32,13 +32,23 @@ I am currently a Machine Learning Ph.D. student at &lt;a href=&#34;http://ml.gat
 
 &lt;h2 id=&#34;publication&#34;&gt;Publication&lt;/h2&gt;
 
+&lt;h3 id=&#34;underreview&#34;&gt;Underreview&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/hybrid.png&#34; style = &#34;float:left;position: relative; width: 200px; margin-right: 40px;&#34;&gt;
+ &lt;br /&gt;
+&lt;strong&gt;Understanding Deep Architectures With Reasoning Layer&lt;/strong&gt;&lt;br /&gt;
+&lt;u&gt;Xinshi Chen&lt;/u&gt;, Yufei Zhang, Christoph Reisinger, Le Song&lt;br /&gt;
+&lt;a href=&#34;https://arxiv.org/pdf/2006.13401.pdf&#34;&gt;arxiv&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;/p&gt;
+
 &lt;h3 id=&#34;conference-journal&#34;&gt;Conference &amp;amp; Journal&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&#34;./img/l2stop.png&#34; style = &#34;float:left;position: relative; width: 220px; margin-right: 20px;&#34;&gt;
 &lt;strong&gt;Learning To Stop While Learning To Predict&lt;/strong&gt;&lt;br /&gt;
 &lt;u&gt;Xinshi Chen&lt;/u&gt;, Hanjun Dai, Yu Li, Xin Gao, Le Song&lt;br /&gt;
 &lt;em&gt;International Conference on Machine Learning&lt;/em&gt; (&lt;strong&gt;ICML&lt;/strong&gt;) 2020&lt;br /&gt;
-&lt;a href=&#34;./&#34;&gt;paper coming soon&lt;/a&gt; &lt;/p&gt;
+&lt;a href=&#34;./papers/paper/l2stop.pdf&#34;&gt;paper&lt;/a&gt; | &lt;a href=&#34;https://github.com/xinshi-chen/l2stop&#34;&gt;github&lt;/a&gt; | &lt;a href=&#34;./papers/slides/icml2020_l2stop.pdf&#34;&gt;slides&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;./img/rna.png&#34; style = &#34;float:left;position: relative; width: 220px; margin-right: 20px;&#34;&gt;
 &lt;strong&gt;RNA Secondary Structure Prediction By Learning Unrolled Algorithms&lt;/strong&gt;&lt;br /&gt;
@@ -103,16 +113,6 @@ Committee: Prof. &lt;a href=&#34;https://www.math.cuhk.edu.hk/~rchan/&#34;&gt;Ra
 &lt;h2 id=&#34;recent-activities&#34;&gt;Recent Activities&lt;/h2&gt;
 
 &lt;div style=&#34;height:317px;overflow-y:auto&#34;&gt;
-&lt;!-- **June 2019** --- in &lt;u&gt;*ICML 2019*&lt;/u&gt;, I presented our works &#39;&#39;Particle Flow Bayes&#39; Rule&#39;&#39; [[video](https://slideslive.com/38917749/approximate-inference)] and &#39;&#39;Generative Adversarial User Model for Reinforcement Learning Based Recommendation System&#39;&#39; [[video](https://slideslive.com/38916813/time-series)].&lt;br /&gt;
-**May 2019** --- I passed the ML &lt;u&gt;*PhD qualifying exam*&lt;/u&gt; at GaTech! (Submitted review on the topic: [Ordinary Differential Equations For Deep Learning](https://arxiv.org/pdf/1911.00502.pdf), and the [slides](/papers/slides/qual_oral.pptx) for oral exam.)&lt;br /&gt;
-**March 2019** --- in the &lt;u&gt;*HotCSE seminar*&lt;/u&gt; at GaTech, I presented our work &#39;&#39;Meta Particle Flow for Sequential Bayesian Inference&#39;&#39; [[introduction](http://www.hotcse.gatech.edu/2019/Xinshi-Chen/index.html)].&lt;br /&gt;
-**Jan. 2019** --- in the &lt;u&gt;*Scientific Machine Learning Workshop*&lt;/u&gt; at ICERM, I presented a poster for our work &#39;&#39;Particle Flow Bayes&#39; Rule&#39;&#39;.&lt;br /&gt;
-**Nov. 2018** --- in the &lt;u&gt;*GT MAP Seminar*&lt;/u&gt; at GaTech, I presented &#39;&#39;Sequential Monte Carlo Problem With Mass Transportation&#39;&#39;, which is the preliminary version for our paper &#39;&#39;Particle Flow Bayes&#39; Rule&#39;&#39;.&lt;br /&gt;
-**July 2018** --- in the &lt;u&gt;*Workshop on Differential Equations on Networks and Related Problems*&lt;/u&gt; at Zhejiang University, I presented our work &#39;&#39;A no-regret user model&#39;&#39;, which is the preliminary version of our paper &#39;&#39;Generative Adversarial User Model for Reinforcement Learning Based Recommendation System&#39;&#39;.&lt;br /&gt;
-**March 2017** --- in the &lt;u&gt;*2017 Imaging Science Camp*&lt;/u&gt; at USUTech, I presented a part of my thesis &#39;&#39;Parametric FEM for shape optimization applied to Golgi stacks&#39;&#39;.&lt;br /&gt;
-**Dec 2016** --- in the &lt;u&gt;*Ceremony of Paul Erdös Award*&lt;/u&gt; (from World Federation of National Mathematics
-Competitions) presented to Prof. Kar-Ping Shum [[media](https://www.cpr.cuhk.edu.hk/en/press_detail.php?id=2465)], I was fortunate to serve as the MC!&lt;br /&gt;
-**Nov 2016** --- in the &lt;u&gt;*3rd AoE Symposium on Organelle Biogenesis and Function*&lt;/u&gt;, I presented our work &#39;&#39;A Mathematical Simulation To The Shape Evolution Of Med-/Trans- Golgi Cisternae&#39;&#39;, a part of our later published paper. --&gt;
 &lt;strong&gt;April 2020&lt;/strong&gt; &amp;mdash; in &lt;u&gt;&lt;em&gt;ICLR 2020&lt;/em&gt;&lt;/u&gt;, three papers are presented virtually. Please check the details &lt;a href=&#34;https://iclr.cc/virtual/papers.html?filter=authors&amp;search=Xinshi+Chen&#34;&gt;here&lt;/a&gt;, and stay safe!&lt;br /&gt;
 &lt;strong&gt;June 2019&lt;/strong&gt; &amp;mdash; in &lt;u&gt;&lt;em&gt;ICML 2019&lt;/em&gt;&lt;/u&gt;, I presented our works &amp;ldquo;Particle Flow Bayes&amp;rsquo; Rule&amp;rdquo; [&lt;a href=&#34;https://slideslive.com/38917749/approximate-inference&#34;&gt;video&lt;/a&gt;] and &amp;ldquo;Generative Adversarial User Model for Reinforcement Learning Based Recommendation System&amp;rdquo; [&lt;a href=&#34;https://slideslive.com/38916813/time-series&#34;&gt;video&lt;/a&gt;].&lt;br /&gt;
 &lt;strong&gt;May 2019&lt;/strong&gt; &amp;mdash; I passed the ML &lt;u&gt;&lt;em&gt;PhD qualifying exam&lt;/em&gt;&lt;/u&gt; at GaTech! (Submitted review on the topic: &lt;a href=&#34;https://arxiv.org/pdf/1911.00502.pdf&#34;&gt;Ordinary Differential Equations For Deep Learning&lt;/a&gt;, and the &lt;a href=&#34;./papers/slides/qual_oral.pptx&#34;&gt;slides&lt;/a&gt; for oral exam.)&lt;br /&gt;
@@ -143,6 +143,12 @@ Competitions) presented to Prof. Kar-Ping Shum [&lt;a href=&#34;https://www.cpr.
 &lt;/p&gt;
 
 &lt;h2 id=&#34;experience&#34;&gt;Experience&lt;/h2&gt;
+
+&lt;p style=&#34;text-align:left;&#34;&gt;
+&lt;em&gt;Research Intern&lt;/em&gt;
+&lt;span style=&#34;float:right;&#34;&gt;&lt;em&gt;June 2020 - August 2020&lt;/em&gt;&lt;/span&gt;&lt;br /&gt;
+&amp;bull; Applied Machine Learning group, Facebook, Menlo Park.
+&lt;/p&gt;
 
 &lt;p style=&#34;text-align:left;&#34;&gt;
 &lt;em&gt;Research Assistant or Teaching Assistant&lt;/em&gt;
