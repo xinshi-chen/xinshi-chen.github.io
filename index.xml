@@ -48,7 +48,7 @@ I am currently a Machine Learning Ph.D. student at &lt;a href=&#34;http://ml.gat
 &lt;strong&gt;Learning To Stop While Learning To Predict&lt;/strong&gt;&lt;br /&gt;
 &lt;u&gt;Xinshi Chen&lt;/u&gt;, Hanjun Dai, Yu Li, Xin Gao, Le Song&lt;br /&gt;
 &lt;em&gt;International Conference on Machine Learning&lt;/em&gt; (&lt;strong&gt;ICML&lt;/strong&gt;) 2020&lt;br /&gt;
-&lt;a href=&#34;./papers/paper/l2stop.pdf&#34;&gt;paper&lt;/a&gt; | &lt;a href=&#34;https://github.com/xinshi-chen/l2stop&#34;&gt;github&lt;/a&gt; | &lt;a href=&#34;./papers/slides/icml2020_l2stop.pdf&#34;&gt;slides&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;./papers/paper/l2stop.pdf&#34;&gt;paper&lt;/a&gt; | &lt;a href=&#34;https://github.com/xinshi-chen/l2stop&#34;&gt;github&lt;/a&gt; | &lt;a href=&#34;https://icml.cc/virtual/2020/poster/6279&#34;&gt;talk&lt;/a&gt; | &lt;a href=&#34;./papers/slides/icml2020_l2stop.pdf&#34;&gt;slides&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;./img/rna.png&#34; style = &#34;float:left;position: relative; width: 220px; margin-right: 20px;&#34;&gt;
 &lt;strong&gt;RNA Secondary Structure Prediction By Learning Unrolled Algorithms&lt;/strong&gt;&lt;br /&gt;
@@ -113,6 +113,7 @@ Committee: Prof. &lt;a href=&#34;https://www.math.cuhk.edu.hk/~rchan/&#34;&gt;Ra
 &lt;h2 id=&#34;recent-activities&#34;&gt;Recent Activities&lt;/h2&gt;
 
 &lt;div style=&#34;height:317px;overflow-y:auto&#34;&gt;
+&lt;strong&gt;June 2020&lt;/strong&gt; &amp;mdash; in &lt;u&gt;&lt;em&gt;ICML 2020&lt;/em&gt;&lt;/u&gt;, I presented our work  &amp;ldquo;Learning To Stop While Learning To Predict&amp;rdquo; virtually. Please check the details &lt;a href=&#34;https://icml.cc/virtual/2020/poster/6279&#34;&gt;here&lt;/a&gt;, and stay safe!&lt;br /&gt;
 &lt;strong&gt;April 2020&lt;/strong&gt; &amp;mdash; in &lt;u&gt;&lt;em&gt;ICLR 2020&lt;/em&gt;&lt;/u&gt;, three papers are presented virtually. Please check the details &lt;a href=&#34;https://iclr.cc/virtual/papers.html?filter=authors&amp;search=Xinshi+Chen&#34;&gt;here&lt;/a&gt;, and stay safe!&lt;br /&gt;
 &lt;strong&gt;June 2019&lt;/strong&gt; &amp;mdash; in &lt;u&gt;&lt;em&gt;ICML 2019&lt;/em&gt;&lt;/u&gt;, I presented our works &amp;ldquo;Particle Flow Bayes&amp;rsquo; Rule&amp;rdquo; [&lt;a href=&#34;https://slideslive.com/38917749/approximate-inference&#34;&gt;video&lt;/a&gt;] and &amp;ldquo;Generative Adversarial User Model for Reinforcement Learning Based Recommendation System&amp;rdquo; [&lt;a href=&#34;https://slideslive.com/38916813/time-series&#34;&gt;video&lt;/a&gt;].&lt;br /&gt;
 &lt;strong&gt;May 2019&lt;/strong&gt; &amp;mdash; I passed the ML &lt;u&gt;&lt;em&gt;PhD qualifying exam&lt;/em&gt;&lt;/u&gt; at GaTech! (Submitted review on the topic: &lt;a href=&#34;https://arxiv.org/pdf/1911.00502.pdf&#34;&gt;Ordinary Differential Equations For Deep Learning&lt;/a&gt;, and the &lt;a href=&#34;./papers/slides/qual_oral.pptx&#34;&gt;slides&lt;/a&gt; for oral exam.)&lt;br /&gt;
@@ -147,7 +148,7 @@ Competitions) presented to Prof. Kar-Ping Shum [&lt;a href=&#34;https://www.cpr.
 &lt;p style=&#34;text-align:left;&#34;&gt;
 &lt;em&gt;Research Intern&lt;/em&gt;
 &lt;span style=&#34;float:right;&#34;&gt;&lt;em&gt;June 2020 - August 2020&lt;/em&gt;&lt;/span&gt;&lt;br /&gt;
-&amp;bull; Applied Machine Learning group, Facebook, Menlo Park.
+&amp;bull; Facebook AI, Menlo Park.
 &lt;/p&gt;
 
 &lt;p style=&#34;text-align:left;&#34;&gt;
