@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Xinshi Chen - Georgia Tech - Homepage </title>
@@ -24,7 +23,7 @@
 &lt;p&gt;&lt;img style = &#34;float:left;position: relative;margin-right: 20px; margin-top: 10px&#34; src=&#34;./img/library.jpg&#34; width=22%&gt;
 I am currently a Machine Learning Ph.D. student at &lt;a href=&#34;http://ml.gatech.edu/&#34;&gt;Georgia Tech&lt;/a&gt; under the supervision of &lt;a href=&#34;https://www.cc.gatech.edu/~lsong/&#34;&gt;Prof. Le Song&lt;/a&gt;. I am interested in principled machine learning. My current research focuses on data-driven algorithm design and the intersection of probabilistic graphical model and deep learning on structured data. Besides, I am interested in applications in the area of structural and computational biology.&lt;/p&gt;
 
-&lt;p&gt;I received my B.S. and M.Phil in Mathematics at the Chinese University of Hong Kong under the supervision of &lt;a href=&#34;https://www.math.cuhk.edu.hk/~tschung/&#34;&gt;Prof. Eric Chung&lt;/a&gt;. I have also spent time at Oak Ridge National Laboratory  and Ant Financial as a research intern. This summer I will work with Facebook as a remote research intern.&lt;/p&gt;
+&lt;p&gt;I received my B.S. and M.Phil in Mathematics at the Chinese University of Hong Kong under the supervision of &lt;a href=&#34;https://www.math.cuhk.edu.hk/~tschung/&#34;&gt;Prof. Eric Chung&lt;/a&gt;. I have also spent time at Oak Ridge National Laboratory, Ant Financial, and Facebook AI as a research intern. My research is generously supported by a &lt;a href=&#34;https://research.google/outreach/phd-fellowship/recipients/&#34;&gt;Google PhD Fellowship&lt;/a&gt; in Machine Learning.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Email:&lt;/strong&gt;  xinshi [dot] chen [at] gatech [dot] edu&lt;br /&gt;
 &lt;strong&gt;Address:&lt;/strong&gt; CODA Building, 11th Floor, Machine Learning Center, Georgia Tech&lt;br /&gt;
@@ -32,17 +31,13 @@ I am currently a Machine Learning Ph.D. student at &lt;a href=&#34;http://ml.gat
 
 &lt;h2 id=&#34;publication&#34;&gt;Publication&lt;/h2&gt;
 
-&lt;h3 id=&#34;underreview&#34;&gt;Underreview&lt;/h3&gt;
+&lt;h3 id=&#34;conference-journal&#34;&gt;Conference &amp;amp; Journal&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&#34;./img/hybrid.png&#34; style = &#34;float:left;position: relative; width: 200px; margin-right: 40px;&#34;&gt;
- &lt;br /&gt;
 &lt;strong&gt;Understanding Deep Architectures With Reasoning Layer&lt;/strong&gt;&lt;br /&gt;
 &lt;u&gt;Xinshi Chen&lt;/u&gt;, Yufei Zhang, Christoph Reisinger, Le Song&lt;br /&gt;
-&lt;a href=&#34;https://arxiv.org/pdf/2006.13401.pdf&#34;&gt;arxiv&lt;/a&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;/p&gt;
-
-&lt;h3 id=&#34;conference-journal&#34;&gt;Conference &amp;amp; Journal&lt;/h3&gt;
+&lt;em&gt;Advances in Neural Information Processing Systems&lt;/em&gt; (&lt;strong&gt;NeurIPS&lt;/strong&gt;) 2020&lt;br /&gt;
+&lt;a href=&#34;https://arxiv.org/pdf/2006.13401.pdf&#34;&gt;arxiv&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;./img/l2stop.png&#34; style = &#34;float:left;position: relative; width: 220px; margin-right: 20px;&#34;&gt;
 &lt;strong&gt;Learning To Stop While Learning To Predict&lt;/strong&gt;&lt;br /&gt;
@@ -181,7 +176,7 @@ Competitions) presented to Prof. Kar-Ping Shum [&lt;a href=&#34;https://www.cpr.
 
 &lt;h2 id=&#34;academic-service&#34;&gt;Academic Service&lt;/h2&gt;
 
-&lt;p&gt;&amp;bull; Program Committee / Reviewer: AAAI 2020, ICLR 2020, AISTAT 2020, MSML 2020, NIPS 2020&lt;/p&gt;
+&lt;p&gt;&amp;bull; Program Committee / Reviewer: AAAI 2020 / 2021, ICLR 2020 / 2021, AISTAT 2020 / 2021, MSML 2020, NIPS 2020, IJCAL 2021&lt;/p&gt;
 
 &lt;h2 id=&#34;teaching&#34;&gt;Teaching&lt;/h2&gt;
 
