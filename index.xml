@@ -31,25 +31,13 @@ I am currently a Machine Learning Ph.D. student at &lt;a href=&#34;http://ml.gat
 
 &lt;h2 id=&#34;publication&#34;&gt;Publication&lt;/h2&gt;
 
-&lt;h3 id=&#34;submitted&#34;&gt;Submitted&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;./img/g1.png&#34; style = &#34;float:left;position: relative; width: 200px; margin-right: 40px;&#34;&gt;
-&lt;strong&gt;A Framework For Differentiable Discovery Of Graph Algorithms&lt;/strong&gt;&lt;br /&gt;
-Anonymous &lt;br /&gt;
-[&lt;a href=&#34;https://openreview.net/pdf?id=ueiBFzt7CiK&#34;&gt;paper link&lt;/a&gt;]&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./img/2ts.png&#34; style = &#34;float:left;position: relative; width: 200px; margin-right: 40px;&#34;&gt;
-&lt;strong&gt;Learning Two-Time-Scale Representations For Large Scale Recommendations&lt;/strong&gt;&lt;br /&gt;
-Anonymous&lt;br /&gt;
-[&lt;a href=&#34;https://openreview.net/pdf?id=xJFxgRLx79J&#34;&gt;paper link&lt;/a&gt;]&lt;/p&gt;
-
 &lt;h3 id=&#34;conference-journal&#34;&gt;Conference &amp;amp; Journal&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&#34;./img/hybrid.png&#34; style = &#34;float:left;position: relative; width: 200px; margin-right: 40px;&#34;&gt;
 &lt;strong&gt;Understanding Deep Architectures With Reasoning Layer&lt;/strong&gt;&lt;br /&gt;
 &lt;u&gt;Xinshi Chen&lt;/u&gt;, Yufei Zhang, Christoph Reisinger, Le Song&lt;br /&gt;
 &lt;em&gt;Advances in Neural Information Processing Systems&lt;/em&gt; (&lt;strong&gt;NeurIPS&lt;/strong&gt;) 2020&lt;br /&gt;
-&lt;a href=&#34;https://arxiv.org/pdf/2006.13401.pdf&#34;&gt;arxiv&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://papers.nips.cc/paper/2020/hash/0d82627e10660af39ea7eb69c3568955-Abstract.html&#34;&gt;paper&lt;/a&gt; | &lt;a href=&#34;https://github.com/xinshi-chen/Deep-Architecture-With-Reasoning-Layer&#34;&gt;github&lt;/a&gt; | &lt;a href=&#34;https://nips.cc/virtual/2020/protected/poster_0d82627e10660af39ea7eb69c3568955.html&#34;&gt;talk&lt;/a&gt; | &lt;a href=&#34;./papers/slides/nips2020-reasoning.pdf&#34;&gt;slides&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;./img/l2stop.png&#34; style = &#34;float:left;position: relative; width: 220px; margin-right: 20px;&#34;&gt;
 &lt;strong&gt;Learning To Stop While Learning To Predict&lt;/strong&gt;&lt;br /&gt;
@@ -60,7 +48,7 @@ Anonymous&lt;br /&gt;
 &lt;p&gt;&lt;img src=&#34;./img/rna.png&#34; style = &#34;float:left;position: relative; width: 220px; margin-right: 20px;&#34;&gt;
 &lt;strong&gt;RNA Secondary Structure Prediction By Learning Unrolled Algorithms&lt;/strong&gt;&lt;br /&gt;
 &lt;u&gt;Xinshi Chen&lt;/u&gt;*, Yu Li*, Ramzan Umarov, Xin Gao, Le Song&lt;br /&gt;
-&lt;em&gt;International Conference on Learning Representations&lt;/em&gt; (&lt;strong&gt;ICLR&lt;/strong&gt;) 2020, &lt;span style=&#34;color:blue&#34;&gt;&lt;strong&gt;Oral&lt;/strong&gt;&lt;/span&gt;.&lt;br /&gt;
+&lt;em&gt;International Conference on Learning Representations&lt;/em&gt; (&lt;strong&gt;ICLR&lt;/strong&gt;) 2020, &lt;span style=&#34;color:red&#34;&gt;&lt;strong&gt;Oral&lt;/strong&gt;&lt;/span&gt;.&lt;br /&gt;
 &lt;a href=&#34;https://openreview.net/pdf?id=S1eALyrYDH&#34;&gt;paper&lt;/a&gt; | &lt;a href=&#34;https://github.com/ml4bio/e2efold&#34;&gt;github&lt;/a&gt; | &lt;a href=&#34;https://iclr.cc/virtual_2020/poster_S1eALyrYDH.html&#34;&gt;talk&lt;/a&gt; | &lt;a href=&#34;./papers/slides/iclr2020-e2efold.pdf&#34;&gt;slides&lt;/a&gt; | &lt;a href=&#34;https://www.cc.gatech.edu/news/633633/machine-learning-tool-may-help-us-better-understand-rna-viruses&#34;&gt;news&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;./img/glad.jpeg&#34; style = &#34;float:left;position: relative; width: 220px; height: 100px; margin-right: 20px; margin-top: 10px&#34;&gt;
@@ -106,9 +94,15 @@ Xinshi Chen&lt;br /&gt;
 
 &lt;!-- &lt;img src=&#34;./img/factor-graph.jpg&#34; style = &#34;float:left;position: relative; width: 200px; margin-right: 30px;margin-top: 10px&#34;&gt; --&gt;
 
+&lt;p&gt;&lt;strong&gt;A Framework For Differentiable Discovery Of Graph Algorithms&lt;/strong&gt;&lt;br /&gt;
+Hanjun Dai, Xinshi Chen, Yu Li, Xin Gao, Le Song&lt;br /&gt;
+&lt;em&gt;NeurIPS 2020 Workshop in Learning Meets Combinatorial Algorithms&lt;/em&gt;, &lt;span style=&#34;color:red&#34;&gt;&lt;strong&gt;Oral&lt;/strong&gt;&lt;/span&gt; [&lt;a href=&#34;https://openreview.net/pdf?id=5UvvKsBTDcR&#34;&gt;paper&lt;/a&gt;]&lt;/p&gt;
+
+&lt;!-- &lt;img src=&#34;./img/factor-graph.jpg&#34; style = &#34;float:left;position: relative; width: 200px; margin-right: 30px;margin-top: 10px&#34;&gt; --&gt;
+
 &lt;p&gt;&lt;strong&gt;Can Graph Neural Networks Help Logic Reasoning?&lt;/strong&gt;&lt;br /&gt;
 Yuyu Zhang*, &lt;u&gt;Xinshi Chen&lt;/u&gt;*, Yuan Yang*, Arun Ramamurthy, Bo Li, Yuan Qi, Le Song&lt;br /&gt;
-&lt;em&gt;NIPS 2019 Workshop in KR2ML&lt;/em&gt; [&lt;a href=&#34;https://arxiv.org/pdf/1906.02111.pdf&#34;&gt;arxiv&lt;/a&gt;] [&lt;a href=&#34;https://drive.google.com/file/d/18YadGde5_nSychxz-7nIgPDnfPgvdIqP/view&#34;&gt;poster&lt;/a&gt;]&lt;/p&gt;
+&lt;em&gt;NeurIPS 2019 Workshop in KR2ML&lt;/em&gt; [&lt;a href=&#34;https://arxiv.org/pdf/1906.02111.pdf&#34;&gt;arxiv&lt;/a&gt;] [&lt;a href=&#34;https://drive.google.com/file/d/18YadGde5_nSychxz-7nIgPDnfPgvdIqP/view&#34;&gt;poster&lt;/a&gt;]&lt;/p&gt;
 
 &lt;!-- &lt;img src=&#34;./img/thesis.jpg&#34; style = &#34;float:right;position: relative; width: 200px; margin-bottom: 30px; margin-right: 0px;&#34;&gt; --&gt;
 
@@ -120,6 +114,10 @@ Committee: Prof. &lt;a href=&#34;https://www.math.cuhk.edu.hk/~rchan/&#34;&gt;Ra
 &lt;h2 id=&#34;recent-activities&#34;&gt;Recent Activities&lt;/h2&gt;
 
 &lt;div style=&#34;height:317px;overflow-y:auto&#34;&gt;
+
+&lt;strong&gt;Dec 2020&lt;/strong&gt; &amp;mdash; in &lt;u&gt;&lt;em&gt;NeurIPS 2020&lt;/em&gt;&lt;/u&gt;, I presented our work  &amp;ldquo;Understanding Deep Architectures With Reasoning Layer&amp;rdquo; virtually. Please check the details &lt;a href=&#34;https://nips.cc/virtual/2020/protected/poster_0d82627e10660af39ea7eb69c3568955.html&#34;&gt;here&lt;/a&gt;!&lt;br /&gt;
+&lt;strong&gt;Nov 2020&lt;/strong&gt; &amp;mdash; in the &lt;u&gt;&lt;em&gt;HotCSE seminar&lt;/em&gt;&lt;/u&gt; at GaTech, I presented our work &amp;ldquo;A Framework For Differentiable Discovery Of Graph Algorithms&amp;rdquo; [&lt;a href=&#34;http://hotcse.gatech.edu/2020/Xinshi-Chen/index.html&#34;&gt;introduction&lt;/a&gt;].&lt;br /&gt;
+&lt;strong&gt;July 2020&lt;/strong&gt; &amp;mdash; in &lt;u&gt;&lt;em&gt;2020 Google PhD Fellowship Summit&lt;/em&gt;&lt;/u&gt;, I presented our work  &amp;ldquo;Understanding Deep Architectures With Reasoning Layer&amp;rdquo; virtually. Details &lt;a href=&#34;https://events.withgoogle.com/2020-phd-fellowship-summit/#content&#34;&gt;here&lt;/a&gt;.&lt;br /&gt;
 &lt;strong&gt;June 2020&lt;/strong&gt; &amp;mdash; in &lt;u&gt;&lt;em&gt;ICML 2020&lt;/em&gt;&lt;/u&gt;, I presented our work  &amp;ldquo;Learning To Stop While Learning To Predict&amp;rdquo; virtually. Please check the details &lt;a href=&#34;https://icml.cc/virtual/2020/poster/6279&#34;&gt;here&lt;/a&gt;, and stay safe!&lt;br /&gt;
 &lt;strong&gt;April 2020&lt;/strong&gt; &amp;mdash; in &lt;u&gt;&lt;em&gt;ICLR 2020&lt;/em&gt;&lt;/u&gt;, three papers are presented virtually. Please check the details &lt;a href=&#34;https://iclr.cc/virtual/papers.html?filter=authors&amp;search=Xinshi+Chen&#34;&gt;here&lt;/a&gt;, and stay safe!&lt;br /&gt;
 &lt;strong&gt;June 2019&lt;/strong&gt; &amp;mdash; in &lt;u&gt;&lt;em&gt;ICML 2019&lt;/em&gt;&lt;/u&gt;, I presented our works &amp;ldquo;Particle Flow Bayes&amp;rsquo; Rule&amp;rdquo; [&lt;a href=&#34;https://slideslive.com/38917749/approximate-inference&#34;&gt;video&lt;/a&gt;] and &amp;ldquo;Generative Adversarial User Model for Reinforcement Learning Based Recommendation System&amp;rdquo; [&lt;a href=&#34;https://slideslive.com/38916813/time-series&#34;&gt;video&lt;/a&gt;].&lt;br /&gt;
@@ -188,7 +186,7 @@ Competitions) presented to Prof. Kar-Ping Shum [&lt;a href=&#34;https://www.cpr.
 
 &lt;h2 id=&#34;academic-service&#34;&gt;Academic Service&lt;/h2&gt;
 
-&lt;p&gt;&amp;bull; Program Committee / Reviewer: AAAI 2020 / 2021, ICLR 2020 / 2021, AISTAT 2020 / 2021, MSML 2020, NIPS 2020, IJCAL 2021&lt;/p&gt;
+&lt;p&gt;&amp;bull; Program Committee / Reviewer: ICML 2021, AAAI 2020 / 2021, ICLR 2020 / 2021, AISTAT 2020 / 2021, MSML 2020 / 2021, NIPS 2020, IJCAL 2021&lt;/p&gt;
 
 &lt;h2 id=&#34;teaching&#34;&gt;Teaching&lt;/h2&gt;
 
