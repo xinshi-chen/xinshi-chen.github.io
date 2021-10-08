@@ -14,112 +14,91 @@
 			<pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
 			<author>Xinshi Chen</author>
 			<guid>/page1/</guid>
-			<description>
-
-&lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;
-
+			<description>&lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Xinshi Chen (陈心诗)&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img style = &#34;float:left;position: relative;margin-right: 20px; margin-top: 10px&#34; src=&#34;./img/library.jpg&#34; width=22%&gt;
-I am currently a Machine Learning Ph.D. student at &lt;a href=&#34;http://ml.gatech.edu/&#34;&gt;Georgia Tech&lt;/a&gt; under the supervision of &lt;a href=&#34;https://www.cc.gatech.edu/~lsong/&#34;&gt;Prof. Le Song&lt;/a&gt;. I am interested in principled machine learning. My current research focuses on data-driven algorithm design and the intersection of probabilistic graphical model and deep learning on structured data. Besides, I am interested in applications in the area of structural and computational biology.&lt;/p&gt;
-
-&lt;p&gt;I received my B.S. and M.Phil in Mathematics at the Chinese University of Hong Kong under the supervision of &lt;a href=&#34;https://www.math.cuhk.edu.hk/~tschung/&#34;&gt;Prof. Eric Chung&lt;/a&gt;. I have also spent time at Oak Ridge National Laboratory, Ant Financial, and Facebook AI as a research intern. My research is generously supported by a &lt;a href=&#34;https://research.google/outreach/phd-fellowship/recipients/&#34;&gt;Google PhD Fellowship&lt;/a&gt; in Machine Learning.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Email:&lt;/strong&gt;  xinshi [dot] chen [at] gatech [dot] edu&lt;br /&gt;
-&lt;strong&gt;Address:&lt;/strong&gt; CODA Building, 11th Floor, Machine Learning Center, Georgia Tech&lt;br /&gt;
-&lt;a href=&#34;./CV_xinshi.pdf&#34;&gt;My CV&lt;/a&gt;&lt;/p&gt;
-
+&lt;img style = &#34;float:left;position: relative;margin-right: 20px; margin-top: 10px&#34; src=&#34;./img/xchen648.jpg&#34; width=12%&gt;
+&lt;p&gt; &lt;br&gt;
+I am currently a Machine Learning Ph.D. student at &lt;a href=&#34;http://ml.gatech.edu/&#34;&gt;Georgia Tech&lt;/a&gt; under the supervision of &lt;a href=&#34;https://www.cc.gatech.edu/~lsong/&#34;&gt;Prof. Le Song&lt;/a&gt;.&lt;br&gt;
+I am interested in principled machine learning. My current research focuses on&lt;br&gt;
+•  learning-based algorithm design (more theoretically oriented),&lt;br&gt;
+• deep learning on structured data (more applicationally oriented),&lt;br&gt;
+and their intersections.&lt;/p&gt;
+&lt;p&gt;I received my B.S. and M.Phil in Mathematics at the Chinese University of Hong Kong under the supervision of &lt;a href=&#34;https://www.math.cuhk.edu.hk/~tschung/&#34;&gt;Prof. Eric Chung&lt;/a&gt;. I have also spent time at &lt;a href=&#34;https://www.ornl.gov/&#34;&gt;Oak Ridge National Laboratory&lt;/a&gt;, &lt;a href=&#34;https://www.antgroup.com/en&#34;&gt;Ant Financial&lt;/a&gt;, &lt;a href=&#34;https://ai.facebook.com/&#34;&gt;Facebook AI&lt;/a&gt;, and &lt;a href=&#34;https://mbzuai.ac.ae/&#34;&gt;MBZUAI&lt;/a&gt; as a research intern or research assistant. My research is generously supported by &lt;a href=&#34;https://research.google/outreach/phd-fellowship/recipients/?category=2020&#34;&gt;Google PhD Fellowship in Machine Learning&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Email:&lt;/strong&gt;  xinshi [dot] chen [at] gatech [dot] edu&lt;br&gt;
+&lt;strong&gt;Address:&lt;/strong&gt; CODA Building, 11th Floor, Machine Learning Center, Georgia Tech&lt;br&gt;
+&lt;a href=&#34;./CV_xinshi2.pdf&#34;&gt;My CV&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;publication&#34;&gt;Publication&lt;/h2&gt;
-
-&lt;h3 id=&#34;submitted&#34;&gt;Submitted&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;./img/g1.png&#34; style = &#34;float:left;position: relative; width: 200px; margin-right: 40px;&#34;&gt;
-&lt;strong&gt;A Framework For Differentiable Discovery Of Graph Algorithms&lt;/strong&gt;&lt;br /&gt;
-Anonymous &lt;br /&gt;
-[&lt;a href=&#34;https://openreview.net/pdf?id=ueiBFzt7CiK&#34;&gt;paper link&lt;/a&gt;]&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./img/2ts.png&#34; style = &#34;float:left;position: relative; width: 200px; margin-right: 40px;&#34;&gt;
-&lt;strong&gt;Learning Two-Time-Scale Representations For Large Scale Recommendations&lt;/strong&gt;&lt;br /&gt;
-Anonymous&lt;br /&gt;
-[&lt;a href=&#34;https://openreview.net/pdf?id=xJFxgRLx79J&#34;&gt;paper link&lt;/a&gt;]&lt;/p&gt;
-
-&lt;h3 id=&#34;conference-journal&#34;&gt;Conference &amp;amp; Journal&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;./img/hybrid.png&#34; style = &#34;float:left;position: relative; width: 200px; margin-right: 40px;&#34;&gt;
-&lt;strong&gt;Understanding Deep Architectures With Reasoning Layer&lt;/strong&gt;&lt;br /&gt;
-&lt;u&gt;Xinshi Chen&lt;/u&gt;, Yufei Zhang, Christoph Reisinger, Le Song&lt;br /&gt;
-&lt;em&gt;Advances in Neural Information Processing Systems&lt;/em&gt; (&lt;strong&gt;NeurIPS&lt;/strong&gt;) 2020&lt;br /&gt;
-&lt;a href=&#34;https://arxiv.org/pdf/2006.13401.pdf&#34;&gt;arxiv&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./img/l2stop.png&#34; style = &#34;float:left;position: relative; width: 220px; margin-right: 20px;&#34;&gt;
-&lt;strong&gt;Learning To Stop While Learning To Predict&lt;/strong&gt;&lt;br /&gt;
-&lt;u&gt;Xinshi Chen&lt;/u&gt;, Hanjun Dai, Yu Li, Xin Gao, Le Song&lt;br /&gt;
-&lt;em&gt;International Conference on Machine Learning&lt;/em&gt; (&lt;strong&gt;ICML&lt;/strong&gt;) 2020&lt;br /&gt;
+&lt;h3 id=&#34;conference--journal&#34;&gt;Conference &amp;amp; Journal&lt;/h3&gt;
+&lt;img src=&#34;./img/multidag.png&#34; style = &#34;float:left;position: relative; width: 220px; margin-right: 20px;&#34;&gt;
+&lt;p&gt;&lt;strong&gt;Multi-task Learning of Order-Consistent Causal Graphs&lt;/strong&gt;&lt;br&gt;
+&lt;u&gt;Xinshi Chen&lt;/u&gt;, Haoran Sun, Caleb Ellington, Eric Xing, Le Song&lt;br&gt;
+&lt;em&gt;Advances in Neural Information Processing Systems&lt;/em&gt; (&lt;strong&gt;NeurIPS&lt;/strong&gt;) 2021&lt;br&gt;
+[paper coming soon]&lt;/p&gt;
+&lt;img src=&#34;./img/hybrid.png&#34; style = &#34;float:left;position: relative; width: 200px; margin-right: 40px;&#34;&gt;
+&lt;p&gt;&lt;strong&gt;Understanding Deep Architectures With Reasoning Layer&lt;/strong&gt;&lt;br&gt;
+&lt;u&gt;Xinshi Chen&lt;/u&gt;, Yufei Zhang, Christoph Reisinger, Le Song&lt;br&gt;
+&lt;em&gt;Advances in Neural Information Processing Systems&lt;/em&gt; (&lt;strong&gt;NeurIPS&lt;/strong&gt;) 2020&lt;br&gt;
+&lt;a href=&#34;https://papers.nips.cc/paper/2020/file/0d82627e10660af39ea7eb69c3568955-Paper.pdf&#34;&gt;paper&lt;/a&gt; | &lt;a href=&#34;https://github.com/xinshi-chen/Deep-Architecture-With-Reasoning-Layer&#34;&gt;github&lt;/a&gt; | &lt;a href=&#34;https://nips.cc/virtual/2020/protected/poster_0d82627e10660af39ea7eb69c3568955.html&#34;&gt;talk&lt;/a&gt; | &lt;a href=&#34;http://xinshi-chen.com/papers/slides/nips2020-reasoning.pdf&#34;&gt;slides&lt;/a&gt;&lt;/p&gt;
+&lt;img src=&#34;./img/l2stop.png&#34; style = &#34;float:left;position: relative; width: 220px; margin-right: 20px;&#34;&gt;
+&lt;p&gt;&lt;strong&gt;Learning To Stop While Learning To Predict&lt;/strong&gt;&lt;br&gt;
+&lt;u&gt;Xinshi Chen&lt;/u&gt;, Hanjun Dai, Yu Li, Xin Gao, Le Song&lt;br&gt;
+&lt;em&gt;International Conference on Machine Learning&lt;/em&gt; (&lt;strong&gt;ICML&lt;/strong&gt;) 2020&lt;br&gt;
 &lt;a href=&#34;./papers/paper/l2stop.pdf&#34;&gt;paper&lt;/a&gt; | &lt;a href=&#34;https://github.com/xinshi-chen/l2stop&#34;&gt;github&lt;/a&gt; | &lt;a href=&#34;https://icml.cc/virtual/2020/poster/6279&#34;&gt;talk&lt;/a&gt; | &lt;a href=&#34;./papers/slides/icml2020_l2stop.pdf&#34;&gt;slides&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./img/rna.png&#34; style = &#34;float:left;position: relative; width: 220px; margin-right: 20px;&#34;&gt;
-&lt;strong&gt;RNA Secondary Structure Prediction By Learning Unrolled Algorithms&lt;/strong&gt;&lt;br /&gt;
-&lt;u&gt;Xinshi Chen&lt;/u&gt;*, Yu Li*, Ramzan Umarov, Xin Gao, Le Song&lt;br /&gt;
-&lt;em&gt;International Conference on Learning Representations&lt;/em&gt; (&lt;strong&gt;ICLR&lt;/strong&gt;) 2020, &lt;span style=&#34;color:blue&#34;&gt;&lt;strong&gt;Oral&lt;/strong&gt;&lt;/span&gt;.&lt;br /&gt;
-&lt;a href=&#34;https://openreview.net/pdf?id=S1eALyrYDH&#34;&gt;paper&lt;/a&gt; | &lt;a href=&#34;https://github.com/ml4bio/e2efold&#34;&gt;github&lt;/a&gt; | &lt;a href=&#34;https://iclr.cc/virtual_2020/poster_S1eALyrYDH.html&#34;&gt;talk&lt;/a&gt; | &lt;a href=&#34;./papers/slides/iclr2020-e2efold.pdf&#34;&gt;slides&lt;/a&gt; | &lt;a href=&#34;https://www.cc.gatech.edu/news/633633/machine-learning-tool-may-help-us-better-understand-rna-viruses&#34;&gt;news&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./img/glad.jpeg&#34; style = &#34;float:left;position: relative; width: 220px; height: 100px; margin-right: 20px; margin-top: 10px&#34;&gt;
-&lt;strong&gt;GLAD: Learning Sparse Graph Recovery&lt;/strong&gt;&lt;br /&gt;
-Harsh Shrivastava, &lt;u&gt;Xinshi Chen&lt;/u&gt;, Binghong Chen, Guanghui Lan, Srinivas Aluru, Han Liu, Le Song&lt;br /&gt;
-&lt;em&gt;International Conference on Learning Representations&lt;/em&gt; (&lt;strong&gt;ICLR&lt;/strong&gt;) 2020&lt;br /&gt;
+&lt;img src=&#34;./img/glad.jpeg&#34; style = &#34;float:left;position: relative; width: 220px; height: 100px; margin-right: 20px; margin-top: 10px&#34;&gt;
+&lt;p&gt;&lt;strong&gt;GLAD: Learning Sparse Graph Recovery&lt;/strong&gt;&lt;br&gt;
+Harsh Shrivastava, &lt;u&gt;Xinshi Chen&lt;/u&gt;, Binghong Chen, Guanghui Lan, Srinivas Aluru, Han Liu, Le Song&lt;br&gt;
+&lt;em&gt;International Conference on Learning Representations&lt;/em&gt; (&lt;strong&gt;ICLR&lt;/strong&gt;) 2020&lt;br&gt;
 &lt;a href=&#34;https://openreview.net/pdf?id=BkxpMTEtPB&#34;&gt;paper&lt;/a&gt; | &lt;a href=&#34;https://github.com/Harshs27/GLAD&#34;&gt;github&lt;/a&gt; | &lt;a href=&#34;https://iclr.cc/virtual_2020/poster_BkxpMTEtPB.html&#34;&gt;talk&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./img/factor-graph.jpg&#34; style = &#34;float:left;position: relative; width: 220px;height: 100px; margin-right: 20px;margin-top: 0px&#34;&gt;
-&lt;strong&gt;Efficient Probabilistic Logic Reasoning with Graph Neural Networks&lt;/strong&gt;&lt;br /&gt;
-Yuyu Zhang, &lt;u&gt;Xinshi Chen&lt;/u&gt;, Yuan Yang, Arun Ramamurthy, Bo Li, Yuan Qi, Le Song&lt;br /&gt;
-&lt;em&gt;International Conference on Learning Representations&lt;/em&gt; (&lt;strong&gt;ICLR&lt;/strong&gt;) 2020&lt;br /&gt;
+&lt;img src=&#34;./img/rna.png&#34; style = &#34;float:left;position: relative; width: 220px; margin-right: 20px;&#34;&gt;
+&lt;p&gt;&lt;strong&gt;RNA Secondary Structure Prediction By Learning Unrolled Algorithms&lt;/strong&gt;&lt;br&gt;
+&lt;u&gt;Xinshi Chen&lt;/u&gt;*, Yu Li*, Ramzan Umarov, Xin Gao, Le Song&lt;br&gt;
+&lt;em&gt;International Conference on Learning Representations&lt;/em&gt; (&lt;strong&gt;ICLR&lt;/strong&gt;) 2020, &lt;span style=&#34;color:red&#34;&gt;&lt;strong&gt;Oral&lt;/strong&gt;&lt;/span&gt;.&lt;br&gt;
+&lt;a href=&#34;https://openreview.net/pdf?id=S1eALyrYDH&#34;&gt;paper&lt;/a&gt; | &lt;a href=&#34;https://github.com/ml4bio/e2efold&#34;&gt;github&lt;/a&gt; | &lt;a href=&#34;https://iclr.cc/virtual_2020/poster_S1eALyrYDH.html&#34;&gt;talk&lt;/a&gt; | &lt;a href=&#34;./papers/slides/iclr2020-e2efold.pdf&#34;&gt;slides&lt;/a&gt; | &lt;a href=&#34;https://www.cc.gatech.edu/news/633633/machine-learning-tool-may-help-us-better-understand-rna-viruses&#34;&gt;news&lt;/a&gt;&lt;/p&gt;
+&lt;img src=&#34;./img/factor-graph.jpg&#34; style = &#34;float:left;position: relative; width: 220px;height: 100px; margin-right: 20px;margin-top: 0px&#34;&gt;
+&lt;p&gt;&lt;strong&gt;Efficient Probabilistic Logic Reasoning with Graph Neural Networks&lt;/strong&gt;&lt;br&gt;
+Yuyu Zhang, &lt;u&gt;Xinshi Chen&lt;/u&gt;, Yuan Yang, Arun Ramamurthy, Bo Li, Yuan Qi, Le Song&lt;br&gt;
+&lt;em&gt;International Conference on Learning Representations&lt;/em&gt; (&lt;strong&gt;ICLR&lt;/strong&gt;) 2020&lt;br&gt;
 &lt;a href=&#34;https://openreview.net/pdf?id=rJg76kStwH&#34;&gt;paper&lt;/a&gt; | &lt;a href=&#34;https://github.com/expressGNN/ExpressGNN&#34;&gt;github&lt;/a&gt; | &lt;a href=&#34;https://iclr.cc/virtual_2020/poster_rJg76kStwH.html&#34;&gt;talk&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;video style = &#34;float:left;position: relative; width: 220px;height: 100px; margin-right: 20px;margin-top: 0px&#34; autoplay loop&gt;
+&lt;video style = &#34;float:left;position: relative; width: 220px;height: 100px; margin-right: 20px;margin-top: 0px&#34; autoplay loop&gt;
   &lt;source src=&#34;./video/mpf2.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
-&lt;strong&gt;Particle Flow Bayes&amp;rsquo; Rule&lt;/strong&gt;&lt;br /&gt;
-&lt;u&gt;Xinshi Chen&lt;/u&gt;*, Hanjun Dai*, Le Song&lt;br /&gt;
-&lt;em&gt;International Conference on Machine Learning&lt;/em&gt; (&lt;strong&gt;ICML&lt;/strong&gt;) 2019&lt;br /&gt;
+&lt;p&gt;&lt;strong&gt;Particle Flow Bayes&#39; Rule&lt;/strong&gt;&lt;br&gt;
+&lt;u&gt;Xinshi Chen&lt;/u&gt;*, Hanjun Dai*, Le Song&lt;br&gt;
+&lt;em&gt;International Conference on Machine Learning&lt;/em&gt; (&lt;strong&gt;ICML&lt;/strong&gt;) 2019&lt;br&gt;
 &lt;a href=&#34;http://proceedings.mlr.press/v97/chen19c/chen19c.pdf&#34;&gt;paper&lt;/a&gt; | &lt;a href=&#34;https://github.com/xinshi-chen/ParticleFlowBayesRule&#34;&gt;github&lt;/a&gt; | &lt;a href=&#34;https://icerm.brown.edu/video_archive/?play=1819&#34;&gt;talk&lt;/a&gt; | &lt;a href=&#34;./papers/slides/icml2019_pfbr.pdf&#34;&gt;slides&lt;/a&gt; | &lt;a href=&#34;./papers/posters/icml2019_pfbr.pdf&#34;&gt;poster&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./img/rl_recommend.jpg&#34; style = &#34;float:left;position: relative; width: 200px; margin-right: 30px; margin-left: 10px; margin-bottom: 10px&#34;&gt;
-&lt;strong&gt;Generative Adversarial User Model for Reinforcement Learning Based Recommendation System&lt;/strong&gt;&lt;br /&gt;
-&lt;u&gt;Xinshi Chen&lt;/u&gt;, Shuang Li, Hui Li, Shaohua Jiang, Yuan Qi, Le Song&lt;br /&gt;
-&lt;em&gt;International Conference on Machine Learning&lt;/em&gt; (&lt;strong&gt;ICML&lt;/strong&gt;) 2019&lt;br /&gt;
+&lt;img src=&#34;./img/rl_recommend.jpg&#34; style = &#34;float:left;position: relative; width: 200px; margin-right: 30px; margin-left: 10px; margin-bottom: 10px&#34;&gt;
+&lt;p&gt;&lt;strong&gt;Generative Adversarial User Model for Reinforcement Learning Based Recommendation System&lt;/strong&gt;&lt;br&gt;
+&lt;u&gt;Xinshi Chen&lt;/u&gt;, Shuang Li, Hui Li, Shaohua Jiang, Yuan Qi, Le Song&lt;br&gt;
+&lt;em&gt;International Conference on Machine Learning&lt;/em&gt; (&lt;strong&gt;ICML&lt;/strong&gt;) 2019&lt;br&gt;
 &lt;a href=&#34;http://proceedings.mlr.press/v97/chen19f/chen19f.pdf&#34;&gt;paper&lt;/a&gt; | &lt;a href=&#34;https://github.com/xinshi-chen/GenerativeAdversarialUserModel&#34;&gt;github&lt;/a&gt; | &lt;a href=&#34;https://slideslive.com/38916813/time-series&#34;&gt;talk&lt;/a&gt; | &lt;a href=&#34;./papers/slides/icml2019_user_model.pdf&#34;&gt;slides&lt;/a&gt; | &lt;a href=&#34;./papers/posters/icml2019_user_model.pdf&#34;&gt;poster&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./img/golgi.png&#34; style = &#34;float:left;position: relative; width: 220px; margin-right: 20px; margin-bottom: 10px&#34;&gt;
-&lt;strong&gt;A distinct class of vesicles derived from the trans-Golgi mediates secretion of xylogalacturonan in the root border cell&lt;/strong&gt;&lt;br /&gt;
-Pengfei Wang, &lt;u&gt;Xinshi Chen&lt;/u&gt;, Cameron Goldbeck, Eric Chung, Byung-Ho Kang&lt;br /&gt;
-&lt;em&gt;The Plant Journal&lt;/em&gt; 2017&lt;br /&gt;
-&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/epdf/10.1111/tpj.13704&#34;&gt;paper&lt;/a&gt;&lt;br /&gt;
-&amp;nbsp;&lt;/p&gt;
-
-&lt;h3 id=&#34;workshop-preprint&#34;&gt;Workshop &amp;amp; Preprint&lt;/h3&gt;
-
-&lt;!-- &lt;img src=&#34;./img/control.png&#34; style = &#34;float:left;position: relative; width: 200px; margin-right: 30px;&#34;&gt; --&gt;
-
-&lt;p&gt;&lt;strong&gt;Review: Ordinary Differential Equations For Deep Learning&lt;/strong&gt;&lt;br /&gt;
-Xinshi Chen&lt;br /&gt;
-&lt;em&gt;Continually updating&lt;/em&gt; [&lt;a href=&#34;https://arxiv.org/pdf/1911.00502.pdf&#34;&gt;arxiv&lt;/a&gt;]&lt;/p&gt;
-
+&lt;img src=&#34;./img/golgi.png&#34; style = &#34;float:left;position: relative; width: 220px; margin-right: 20px; margin-bottom: 10px&#34;&gt;
+&lt;p&gt;&lt;strong&gt;A distinct class of vesicles derived from the trans-Golgi mediates secretion of xylogalacturonan in the root border cell&lt;/strong&gt;&lt;br&gt;
+Pengfei Wang, &lt;u&gt;Xinshi Chen&lt;/u&gt;, Cameron Goldbeck, Eric Chung, Byung-Ho Kang&lt;br&gt;
+&lt;em&gt;The Plant Journal&lt;/em&gt; 2017&lt;br&gt;
+&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/epdf/10.1111/tpj.13704&#34;&gt;paper&lt;/a&gt;&lt;br&gt;
+ &lt;/p&gt;
+&lt;h3 id=&#34;preprint--workshop&#34;&gt;Preprint &amp;amp; Workshop&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;A Framework For Differentiable Discovery Of Graph Algorithms&lt;/strong&gt;&lt;br&gt;
+Hanjun Dai, &lt;u&gt;Xinshi Chen&lt;/u&gt;, Yu Li, Xin Gao, Le Song&lt;br&gt;
+&lt;em&gt;NIPS 2020 Workshop in Learning Meets Combinatorial Algorithms&lt;/em&gt;, &lt;span style=&#34;color:red&#34;&gt;&lt;strong&gt;Oral&lt;/strong&gt;&lt;/span&gt;  [&lt;a href=&#34;https://openreview.net/forum?id=5UvvKsBTDcR&#34;&gt;paper&lt;/a&gt;]&lt;/p&gt;
 &lt;!-- &lt;img src=&#34;./img/factor-graph.jpg&#34; style = &#34;float:left;position: relative; width: 200px; margin-right: 30px;margin-top: 10px&#34;&gt; --&gt;
-
-&lt;p&gt;&lt;strong&gt;Can Graph Neural Networks Help Logic Reasoning?&lt;/strong&gt;&lt;br /&gt;
-Yuyu Zhang*, &lt;u&gt;Xinshi Chen&lt;/u&gt;*, Yuan Yang*, Arun Ramamurthy, Bo Li, Yuan Qi, Le Song&lt;br /&gt;
+&lt;p&gt;&lt;strong&gt;Can Graph Neural Networks Help Logic Reasoning?&lt;/strong&gt;&lt;br&gt;
+Yuyu Zhang*, &lt;u&gt;Xinshi Chen&lt;/u&gt;*, Yuan Yang*, Arun Ramamurthy, Bo Li, Yuan Qi, Le Song&lt;br&gt;
 &lt;em&gt;NIPS 2019 Workshop in KR2ML&lt;/em&gt; [&lt;a href=&#34;https://arxiv.org/pdf/1906.02111.pdf&#34;&gt;arxiv&lt;/a&gt;] [&lt;a href=&#34;https://drive.google.com/file/d/18YadGde5_nSychxz-7nIgPDnfPgvdIqP/view&#34;&gt;poster&lt;/a&gt;]&lt;/p&gt;
-
+&lt;!-- &lt;img src=&#34;./img/control.png&#34; style = &#34;float:left;position: relative; width: 200px; margin-right: 30px;&#34;&gt; --&gt;
+&lt;p&gt;&lt;strong&gt;Review: Ordinary Differential Equations For Deep Learning&lt;/strong&gt;&lt;br&gt;
+Xinshi Chen&lt;br&gt;
+&lt;em&gt;Continually updating&lt;/em&gt; [&lt;a href=&#34;https://arxiv.org/pdf/1911.00502.pdf&#34;&gt;arxiv&lt;/a&gt;]&lt;/p&gt;
 &lt;!-- &lt;img src=&#34;./img/thesis.jpg&#34; style = &#34;float:right;position: relative; width: 200px; margin-bottom: 30px; margin-right: 0px;&#34;&gt; --&gt;
-
-&lt;p&gt;&lt;strong&gt;Parametric Finite Element Method for Shape Optimization applied to Golgi Stack&lt;/strong&gt;&lt;br /&gt;
-CUHK Theses &amp;amp; Dissertations Collection 2017 [&lt;a href=&#34;https://arxiv.org/pdf/1902.00619.pdf&#34;&gt;arxiv&lt;/a&gt;]&lt;br /&gt;
-Committee: Prof. &lt;a href=&#34;https://www.math.cuhk.edu.hk/~rchan/&#34;&gt;Raymond Honfu Chan&lt;/a&gt;, Prof. &lt;a href=&#34;https://www.math.cuhk.edu.hk/~lmlui/&#34;&gt;Ronald Lok Ming Lui&lt;/a&gt;, Prof. &lt;a href=&#34;https://www.math.cuhk.edu.hk/~tschung/&#34;&gt;Eric Chung&lt;/a&gt;&lt;br /&gt;
-&amp;nbsp;&lt;/p&gt;
-
+&lt;p&gt;&lt;strong&gt;Parametric Finite Element Method for Shape Optimization applied to Golgi Stack&lt;/strong&gt;&lt;br&gt;
+CUHK Theses &amp;amp; Dissertations Collection 2017 [&lt;a href=&#34;https://arxiv.org/pdf/1902.00619.pdf&#34;&gt;arxiv&lt;/a&gt;]&lt;br&gt;
+Committee: Prof. &lt;a href=&#34;https://www.math.cuhk.edu.hk/~rchan/&#34;&gt;Raymond Honfu Chan&lt;/a&gt;, Prof. &lt;a href=&#34;https://www.math.cuhk.edu.hk/~lmlui/&#34;&gt;Ronald Lok Ming Lui&lt;/a&gt;, Prof. &lt;a href=&#34;https://www.math.cuhk.edu.hk/~tschung/&#34;&gt;Eric Chung&lt;/a&gt;&lt;br&gt;
+ &lt;/p&gt;
 &lt;h2 id=&#34;recent-activities&#34;&gt;Recent Activities&lt;/h2&gt;
-
 &lt;div style=&#34;height:317px;overflow-y:auto&#34;&gt;
+&lt;strong&gt;Dec 2020&lt;/strong&gt; &amp;mdash; in &lt;u&gt;&lt;em&gt;NeuRIPs 2020&lt;/em&gt;&lt;/u&gt;, I presented our work &amp;ldquo;Understanding Deep Architectures With Reasoning Layer&amp;rdquo; virtually. Please check the details &lt;a href=&#34;https://nips.cc/virtual/2020/protected/poster_0d82627e10660af39ea7eb69c3568955.html&#34;&gt;here&lt;/a&gt;.&lt;br /&gt;
+&lt;strong&gt;Nov 2020&lt;/strong&gt; &amp;mdash; in the &lt;u&gt;&lt;em&gt;HotCSE seminar&lt;/em&gt;&lt;/u&gt; at GaTech, I presented our work &amp;ldquo;A Framework For Differentiable Discovery Of Graph Algorithms&amp;rdquo;. [&lt;a href=&#34;http://hotcse.gatech.edu/2020/Xinshi-Chen/index.html&#34;&gt;Introduction&lt;/a&gt;]&lt;br /&gt;
+&lt;strong&gt;July 2020&lt;/strong&gt; &amp;mdash; in &lt;u&gt;&lt;em&gt;2020 Google PhD Fellowship Summit&lt;/em&gt;&lt;/u&gt;, I presented our work &amp;ldquo;Understanding Deep Architectures With Reasoning Layer&amp;rdquo; virtually. Details &lt;a href=&#34;https://events.withgoogle.com/2020-phd-fellowship-summit/#content&#34;&gt;here&lt;/a&gt;.&lt;br /&gt;
 &lt;strong&gt;June 2020&lt;/strong&gt; &amp;mdash; in &lt;u&gt;&lt;em&gt;ICML 2020&lt;/em&gt;&lt;/u&gt;, I presented our work  &amp;ldquo;Learning To Stop While Learning To Predict&amp;rdquo; virtually. Please check the details &lt;a href=&#34;https://icml.cc/virtual/2020/poster/6279&#34;&gt;here&lt;/a&gt;, and stay safe!&lt;br /&gt;
 &lt;strong&gt;April 2020&lt;/strong&gt; &amp;mdash; in &lt;u&gt;&lt;em&gt;ICLR 2020&lt;/em&gt;&lt;/u&gt;, three papers are presented virtually. Please check the details &lt;a href=&#34;https://iclr.cc/virtual/papers.html?filter=authors&amp;search=Xinshi+Chen&#34;&gt;here&lt;/a&gt;, and stay safe!&lt;br /&gt;
 &lt;strong&gt;June 2019&lt;/strong&gt; &amp;mdash; in &lt;u&gt;&lt;em&gt;ICML 2019&lt;/em&gt;&lt;/u&gt;, I presented our works &amp;ldquo;Particle Flow Bayes&amp;rsquo; Rule&amp;rdquo; [&lt;a href=&#34;https://slideslive.com/38917749/approximate-inference&#34;&gt;video&lt;/a&gt;] and &amp;ldquo;Generative Adversarial User Model for Reinforcement Learning Based Recommendation System&amp;rdquo; [&lt;a href=&#34;https://slideslive.com/38916813/time-series&#34;&gt;video&lt;/a&gt;].&lt;br /&gt;
@@ -133,50 +112,41 @@ Committee: Prof. &lt;a href=&#34;https://www.math.cuhk.edu.hk/~rchan/&#34;&gt;Ra
 Competitions) presented to Prof. Kar-Ping Shum [&lt;a href=&#34;https://www.cpr.cuhk.edu.hk/en/press_detail.php?id=2465&#34;&gt;media&lt;/a&gt;], I was fortunate to serve as the MC!&lt;br /&gt;
 &lt;strong&gt;Nov 2016&lt;/strong&gt; &amp;mdash; in the &lt;u&gt;&lt;em&gt;3rd AoE Symposium on Organelle Biogenesis and Function&lt;/em&gt;&lt;/u&gt;, I presented our work &amp;ldquo;A Mathematical Simulation To The Shape Evolution Of Med-/Trans- Golgi Cisternae&amp;rdquo;, a part of our later published paper.
 &lt;/div&gt;
-
 &lt;h2 id=&#34;biography&#34;&gt;Biography&lt;/h2&gt;
-
 &lt;p style=&#34;text-align:left;&#34;&gt;
 &lt;em&gt;M.Phil. (Master of Philosophy) in Mathematics&lt;/em&gt;
 &lt;span style=&#34;float:right;&#34;&gt;&lt;em&gt;September 2015 - July 2017&lt;/em&gt;&lt;/span&gt;&lt;br /&gt;
 &amp;bull; The Chinese University of Hong Kong (Advisor: &lt;a href=&#34;https://arxiv.org/pdf/1902.00619.pdf&#34;&gt;Prof. Eric Chung&lt;/a&gt;)&lt;br /&gt;
 &amp;bull; Thesis: Parametric Finite Element Method for Shape Optimization [&lt;a href=&#34;https://arxiv.org/pdf/1902.00619.pdf&#34;&gt;PDF&lt;/a&gt;]&lt;br /&gt;
 &lt;/p&gt;
-
 &lt;p style=&#34;text-align:left;&#34;&gt;
 &lt;em&gt;B.Sc. in Mathematics&lt;/em&gt;
 &lt;span style=&#34;float:right;&#34;&gt;&lt;em&gt;September 2011 - July 2015&lt;/em&gt;&lt;/span&gt;&lt;br /&gt;
 &amp;bull; The Chinese University of Hong Kong&lt;br /&gt;
 &amp;bull; Exchange in math department at &lt;em&gt;ETH Zurich, Switzerland&lt;/em&gt; &lt;span style=&#34;float:right;&#34;&gt;&lt;em&gt;January 2014 - June 2014&lt;/em&gt;&lt;/span&gt;
 &lt;/p&gt;
-
 &lt;h2 id=&#34;experience&#34;&gt;Experience&lt;/h2&gt;
-
 &lt;p style=&#34;text-align:left;&#34;&gt;
 &lt;em&gt;Research Intern&lt;/em&gt;
 &lt;span style=&#34;float:right;&#34;&gt;&lt;em&gt;June 2020 - August 2020&lt;/em&gt;&lt;/span&gt;&lt;br /&gt;
 &amp;bull; Facebook AI, Menlo Park.
 &lt;/p&gt;
-
 &lt;p style=&#34;text-align:left;&#34;&gt;
 &lt;em&gt;Research Assistant or Teaching Assistant&lt;/em&gt;
 &lt;span style=&#34;float:right;&#34;&gt;&lt;em&gt;September 2017 - present&lt;/em&gt;&lt;/span&gt;&lt;br /&gt;
 &amp;bull; Teach in School of Mathematics, Georgia Institute of Technology.&lt;br /&gt;
 &amp;bull; Work in Machine Learning Group, supervised by Prof. Le Song.
 &lt;/p&gt;
-
 &lt;p style=&#34;text-align:left;&#34;&gt;
 &lt;em&gt;Research Intern&lt;/em&gt;
 &lt;span style=&#34;float:right;&#34;&gt;&lt;em&gt;June 2018 - August 2018&lt;/em&gt;&lt;/span&gt;&lt;br /&gt;
 &amp;bull; AI department, Ant Financial (affiliate company of Alibaba), Hangzhou, China
 &lt;/p&gt;
-
 &lt;p style=&#34;text-align:left;&#34;&gt;
 &lt;em&gt;Teaching Assistant&lt;/em&gt;
 &lt;span style=&#34;float:right;&#34;&gt;&lt;em&gt;August 2015 - June 2017&lt;/em&gt;&lt;/span&gt;&lt;br /&gt;
 &amp;bull; Department of Mathematics, The Chinese University of Hong Kong
 &lt;/p&gt;
-
 &lt;p style=&#34;text-align:left;&#34;&gt;
 &lt;em&gt;REU Research Intern&lt;/em&gt;
 &lt;span style=&#34;float:right;&#34;&gt;&lt;em&gt;June 2014 - August 2014&lt;/em&gt;&lt;/span&gt;&lt;br /&gt;
@@ -185,45 +155,34 @@ Competitions) presented to Prof. Kar-Ping Shum [&lt;a href=&#34;https://www.cpr.
 &amp;bull; Solve diffusion-convection equation based on finite element method.&lt;br /&gt;
 &amp;bull; Title: Modeling Chemical Transport with Galerkin Methods[&lt;a href=&#34;https://www.jics.utk.edu/csure-reu/csure14/projects&#34;&gt;Project link&lt;/a&gt;]
 &lt;/p&gt;
-
 &lt;h2 id=&#34;academic-service&#34;&gt;Academic Service&lt;/h2&gt;
-
-&lt;p&gt;&amp;bull; Program Committee / Reviewer: AAAI 2020 / 2021, ICLR 2020 / 2021, AISTAT 2020 / 2021, MSML 2020, NIPS 2020, IJCAL 2021&lt;/p&gt;
-
+&lt;p&gt;• Program Committee / Reviewer: AAAI 2020-22, ICLR 2020-22, AISTAT 2020-21, MSML 2020-21, ICML 2020-21, NIPS 2020-21, IJCAL 2021&lt;/p&gt;
 &lt;h2 id=&#34;teaching&#34;&gt;Teaching&lt;/h2&gt;
-
 &lt;p&gt;&lt;em&gt;School of Mathematics, GaTech&lt;/em&gt;&lt;br /&gt;
-&amp;bull; MATH2551 Multivariable Calculus, (Recitation Teaching), Spring 2018 &amp;amp; Fall 2017&lt;/p&gt;
-
+• MATH2551 Multivariable Calculus, (Recitation Teaching), Spring 2018 &amp;amp; Fall 2017&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Department of Mathematics, CUHK&lt;/em&gt;&lt;br /&gt;
-&amp;bull; MATH3240 Numerical Methods for Differential Equations, (Tutorial), Spring 2016&lt;br /&gt;
-&amp;bull; MATH3230 Numerical Analysis, (Tutorial), Fall 2016 &amp;amp; Fall 2015&lt;br /&gt;
-&amp;bull; MATH2010 Advanced Calculus I, (Tutorial), Spring 2016&lt;br /&gt;
-&amp;bull; MATH1510 Calculus for Engineers, (Tutorial), Fall 2015&lt;/p&gt;
-
+• MATH3240 Numerical Methods for Differential Equations, (Tutorial), Spring 2016&lt;br /&gt;
+• MATH3230 Numerical Analysis, (Tutorial), Fall 2016 &amp;amp; Fall 2015&lt;br /&gt;
+• MATH2010 Advanced Calculus I, (Tutorial), Spring 2016&lt;br /&gt;
+• MATH1510 Calculus for Engineers, (Tutorial), Fall 2015&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Enrichment Programme for Young Mathematics Talents, Hong Kong&lt;/em&gt;&lt;br /&gt;
-&amp;bull; SAYT1054 Mathematical Analysis, (Discussion Group), Fall 2013&lt;/p&gt;
-
+• SAYT1054 Mathematical Analysis, (Discussion Group), Fall 2013&lt;/p&gt;
 &lt;h2 id=&#34;award&#34;&gt;Award&lt;/h2&gt;
-
-&lt;p&gt;&amp;bull; ICLR Travel Award, 2020&lt;br /&gt;
-&amp;bull; ICML Travel Award, 2019&lt;br /&gt;
-&amp;bull; Postgraduate Studentship, CUHK, 2015-2017&lt;br /&gt;
-&amp;bull; Best oral presentation in 3rd AoE(Area of Excellence) Symposium, 2016&lt;br /&gt;
-&amp;bull; Professor Charles K. Kao Research Scholarship, 2013-14&lt;br /&gt;
-&amp;bull; College Head&amp;rsquo;s list - for outstanding academic performance, 2013-14&lt;br /&gt;
-&amp;bull; Undergraduate Exchange Scholarship, 2013&lt;/p&gt;
-
+&lt;p&gt;• ICLR Travel Award, 2020&lt;br /&gt;
+• ICML Travel Award, 2019&lt;br /&gt;
+• Postgraduate Studentship, CUHK, 2015-2017&lt;br /&gt;
+• Best oral presentation in 3rd AoE(Area of Excellence) Symposium, 2016&lt;br /&gt;
+• Professor Charles K. Kao Research Scholarship, 2013-14&lt;br /&gt;
+• College Head&amp;rsquo;s list - for outstanding academic performance, 2013-14&lt;br /&gt;
+• Undergraduate Exchange Scholarship, 2013&lt;/p&gt;
 &lt;h2 id=&#34;extra-curriculum&#34;&gt;Extra-Curriculum&lt;/h2&gt;
-
-&lt;p&gt;&lt;em&gt;Volunteer Experience&lt;/em&gt;&lt;br /&gt;
-&amp;bull; Bronze Award for Volunteer Service (Individual), 2012, &lt;em&gt;issued by HK Social Welfare Department&lt;/em&gt;&lt;br /&gt;
-&amp;bull; Gold Award for Volunteer Service (Group), 2012, &lt;em&gt;issued by HK Social Welfare Department&lt;/em&gt;&lt;br /&gt;
-&amp;bull; Overall Best Mainland Service Project 2011-12, &lt;em&gt;Caring Heart Community Service Project Scheme&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Certificates&lt;/em&gt;&lt;br /&gt;
-&amp;bull;  Completion of the Mental Health First Aid Course, &lt;em&gt;certified by MHFA International&lt;/em&gt;&lt;br /&gt;
-&amp;bull;  Advanced Open Water Diver, &lt;em&gt;certified by PADI&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Volunteer Experience&lt;/em&gt;&lt;br&gt;
+• Bronze Award for Volunteer Service (Individual), 2012, &lt;em&gt;issued by HK Social Welfare Department&lt;/em&gt;&lt;br&gt;
+• Gold Award for Volunteer Service (Group), 2012, &lt;em&gt;issued by HK Social Welfare Department&lt;/em&gt;&lt;br&gt;
+• Overall Best Mainland Service Project 2011-12, &lt;em&gt;Caring Heart Community Service Project Scheme&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Certificates&lt;/em&gt;&lt;br&gt;
+•  Completion of the Mental Health First Aid Course, &lt;em&gt;certified by MHFA International&lt;/em&gt;&lt;br&gt;
+•  Advanced Open Water Diver, &lt;em&gt;certified by PADI&lt;/em&gt;&lt;/p&gt;
 </description>
 		</item>
 		
