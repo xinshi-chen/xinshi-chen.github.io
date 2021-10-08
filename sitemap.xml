@@ -1,46 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-    http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-    <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-    
-    
-    <url>
-        <loc>http://xinshi-chen.com/</loc>
-        <lastmod>2020-03-27T22:45:29+00:00</lastmod>
-        <priority>1.00</priority>
-    </url>
-    <url>
-        <loc>http://xinshi-chen.com/CV_xinshi.pdf</loc>
-        <lastmod>2020-03-27T22:45:28+00:00</lastmod>
-        <priority>0.80</priority>
-    </url>
-    <url>
-        <loc>http://xinshi-chen.com/papers/slides/icml2019_pfbr.pdf</loc>
-        <lastmod>2020-03-27T22:45:29+00:00</lastmod>
-        <priority>0.80</priority>
-    </url>
-    <url>
-        <loc>http://xinshi-chen.com/papers/posters/icml2019_pfbr.pdf</loc>
-        <lastmod>2020-03-27T22:45:29+00:00</lastmod>
-        <priority>0.80</priority>
-    </url>
-    <url>
-        <loc>http://xinshi-chen.com/papers/slides/icml2019_user_model.pdf</loc>
-        <lastmod>2020-03-27T22:45:29+00:00</lastmod>
-        <priority>0.80</priority>
-    </url>
-    <url>
-        <loc>http://xinshi-chen.com/papers/posters/icml2019_user_model.pdf</loc>
-        <lastmod>2020-03-27T22:45:29+00:00</lastmod>
-        <priority>0.80</priority>
-    </url>
-    <url>
-        <loc>http://xinshi-chen.com/papers/slides/qual_oral.pptx</loc>
-        <lastmod>2020-03-27T22:45:29+00:00</lastmod>
-        <priority>0.80</priority>
-    </url>
-    
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/</loc>
+  </url>
+  
+  <url>
+    <loc>/page1/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+  </url>
+  
 </urlset>
