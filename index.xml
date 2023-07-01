@@ -26,6 +26,14 @@ I am a PhD Candidate in Machine Learning at &lt;a href=&#34;http://ml.gatech.edu
 &lt;a href=&#34;./CV.pdf&#34;&gt;My CV&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;publication&#34;&gt;Publication&lt;/h2&gt;
 &lt;h3 id=&#34;preprint--workshop&#34;&gt;Preprint &amp;amp; Workshop&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;A Deep Learning Approach to Recover Conditional Independence graphs&lt;/strong&gt;&lt;br&gt;
+Harsh Shrivastava, Urszula Chajewska, Robin Abraham, &lt;u&gt;Xinshi Chen&lt;/u&gt;&lt;br&gt;
+&lt;em&gt;NeurIPS 2022 Workshop: New Frontiers in Graph Learning&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;https://arxiv.org/pdf/2211.06829v1.pdf&#34;&gt;paper&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Graph Condensation via Receptive Field Distribution Matching&lt;/strong&gt;&lt;br&gt;
+Mengyang Liu, Shanchuan Li, Le Song, &lt;u&gt;Xinshi Chen&lt;/u&gt;&lt;br&gt;
+&lt;em&gt;Arxiv Preprint 2022&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;https://arxiv.org/pdf/2206.13697.pdf&#34;&gt;paper&lt;/a&gt;&lt;/p&gt;
 &lt;img src=&#34;./img/edge.png&#34; style = &#34;float:left;position: relative; width: 220px; margin-right: 20px; margin-top: 10px;&#34;&gt;
 &lt;p&gt;&lt;strong&gt;Efficient Dynamic Graph Representation Learning at Scale&lt;/strong&gt;&lt;br&gt;
 &lt;u&gt;Xinshi Chen&lt;/u&gt;, Yan Zhu, Haowen Xu, Mengyang Liu, Liang Xiong, Muhan
@@ -63,7 +71,7 @@ Yuyu Zhang*, &lt;u&gt;Xinshi Chen&lt;/u&gt;*, Yuan Yang*, Arun Ramamurthy, Bo Li
 &lt;p&gt;&lt;strong&gt;Understanding Deep Architectures With Reasoning Layer&lt;/strong&gt;&lt;br&gt;
 &lt;u&gt;Xinshi Chen&lt;/u&gt;, Yufei Zhang, Christoph Reisinger, Le Song&lt;br&gt;
 &lt;em&gt;Advances in Neural Information Processing Systems&lt;/em&gt; (&lt;strong&gt;NeurIPS&lt;/strong&gt;) 2020&lt;br&gt;
-&lt;a href=&#34;https://papers.nips.cc/paper/2020/file/0d82627e10660af39ea7eb69c3568955-Paper.pdf&#34;&gt;paper&lt;/a&gt; | &lt;a href=&#34;https://github.com/xinshi-chen/Deep-Architecture-With-Reasoning-Layer&#34;&gt;github&lt;/a&gt; | &lt;a href=&#34;https://nips.cc/virtual/2020/protected/poster_0d82627e10660af39ea7eb69c3568955.html&#34;&gt;talk&lt;/a&gt; | &lt;a href=&#34;http://xinshi-chen.com/papers/slides/nips2020-reasoning.pdf&#34;&gt;slides&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://papers.nips.cc/paper/2020/file/0d82627e10660af39ea7eb69c3568955-Paper.pdf&#34;&gt;paper&lt;/a&gt; | &lt;a href=&#34;https://github.com/xinshi-chen/Deep-Architecture-With-Reasoning-Layer&#34;&gt;github&lt;/a&gt; | &lt;a href=&#34;https://nips.cc/virtual/2020/protected/poster_0d82627e10660af39ea7eb69c3568955.html&#34;&gt;talk&lt;/a&gt; | &lt;a href=&#34;./papers/slides/nips2020-reasoning.pdf&#34;&gt;slides&lt;/a&gt;&lt;/p&gt;
 &lt;img src=&#34;./img/l2stop.png&#34; style = &#34;float:left;position: relative; width: 220px; margin-right: 20px;margin-top: 10px&#34;&gt;
 &lt;p&gt;&lt;strong&gt;Learning To Stop While Learning To Predict&lt;/strong&gt;&lt;br&gt;
 &lt;u&gt;Xinshi Chen&lt;/u&gt;, Hanjun Dai, Yu Li, Xin Gao, Le Song&lt;br&gt;
